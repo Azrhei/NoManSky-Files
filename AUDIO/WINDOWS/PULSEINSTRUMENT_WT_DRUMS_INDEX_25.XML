@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="78288876" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_WT_Drums_Index_25</ObjectPath>
+			<ShortName>PulseInstrument_WT_Drums_Index_25</ShortName>
+			<Path>PulseInstrument_WT_Drums_Index_25.bnk</Path>
+			<IncludedEvents>
+				<Event Id="822494656" Name="Play_WT_Drums_Index_25_dashka_wantedBeats_3" ObjectPath="\Events\PulseInstruments\PulseInstrument_WT_Drums_Index_25\Play_WT_Drums_Index_25_dashka_wantedBeats_3">
+					<ReferencedStreamedFiles>
+						<File Id="111473279" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_7_358B4EC2.wem</Path>
+						</File>
+						<File Id="226066267" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="379652785" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="447841093" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="545714448" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_3_358B4EC2.wem</Path>
+						</File>
+						<File Id="608272452" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="987124949" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="1033885735" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_25\dashka_wantedBeats_1_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="546355550" Name="Stop_WT_Drums_Index_25_dashka_wantedBeats_3" ObjectPath="\Events\PulseInstruments\PulseInstrument_WT_Drums_Index_25\Stop_WT_Drums_Index_25_dashka_wantedBeats_3"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

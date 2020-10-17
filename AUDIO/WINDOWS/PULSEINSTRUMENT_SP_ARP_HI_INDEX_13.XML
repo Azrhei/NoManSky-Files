@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="828321219" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_SP_Arp_HI_Index_13</ObjectPath>
+			<ShortName>PulseInstrument_SP_Arp_HI_Index_13</ShortName>
+			<Path>PulseInstrument_SP_Arp_HI_Index_13.bnk</Path>
+			<IncludedEvents>
+				<Event Id="66715489" Name="Play_SP_Arp_HI_Index_13_ArpBeyond_A9" ObjectPath="\Events\PulseInstruments\PulseInstrument_SP_Arp_HI_Index_13\Play_SP_Arp_HI_Index_13_ArpBeyond_A9">
+					<ReferencedStreamedFiles>
+						<File Id="1282980" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A6.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A6_358B4EC2.wem</Path>
+						</File>
+						<File Id="2142442" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A3.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A3_358B4EC2.wem</Path>
+						</File>
+						<File Id="5980412" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A4.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A4_358B4EC2.wem</Path>
+						</File>
+						<File Id="89285393" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A11.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A11_358B4EC2.wem</Path>
+						</File>
+						<File Id="136025236" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A1.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A1_358B4EC2.wem</Path>
+						</File>
+						<File Id="205486880" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A12.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A12_358B4EC2.wem</Path>
+						</File>
+						<File Id="271669406" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A5.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A5_358B4EC2.wem</Path>
+						</File>
+						<File Id="341791092" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A9.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A9_358B4EC2.wem</Path>
+						</File>
+						<File Id="346803564" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A8.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A8_358B4EC2.wem</Path>
+						</File>
+						<File Id="484281151" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A7.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A7_358B4EC2.wem</Path>
+						</File>
+						<File Id="880481803" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A10.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A10_358B4EC2.wem</Path>
+						</File>
+						<File Id="1070442306" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A2.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_13\ArpBeyond_A2_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="3540222211" Name="Stop_SP_Arp_HI_Index_13_ArpBeyond_A9" ObjectPath="\Events\PulseInstruments\PulseInstrument_SP_Arp_HI_Index_13\Stop_SP_Arp_HI_Index_13_ArpBeyond_A9"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

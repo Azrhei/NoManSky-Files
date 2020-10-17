@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3515430372" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_MAP_DroneTone_01_Index_01</ObjectPath>
+			<ShortName>PulseInstrument_MAP_DroneTone_01_Index_01</ShortName>
+			<Path>PulseInstrument_MAP_DroneTone_01_Index_01.bnk</Path>
+			<IncludedEvents>
+				<Event Id="776510771" Name="Play_MAP_DroneTone_01_Index_01_MUS_Map1_Drone_E" ObjectPath="\Events\PulseInstruments\PulseInstrument_MAP_DroneTone_01_Index_01\Play_MAP_DroneTone_01_Index_01_MUS_Map1_Drone_E">
+					<ReferencedStreamedFiles>
+						<File Id="970046904" Language="SFX">
+							<ShortName>PulseInstruments\MAP_DroneTone_01_Index_01\MUS_Map1_Drone_E.wav</ShortName>
+							<Path>SFX\PulseInstruments\MAP_DroneTone_01_Index_01\MUS_Map1_Drone_E_34F5269C.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="949166737" Name="Stop_MAP_DroneTone_01_Index_01_MUS_Map1_Drone_E" ObjectPath="\Events\PulseInstruments\PulseInstrument_MAP_DroneTone_01_Index_01\Stop_MAP_DroneTone_01_Index_01_MUS_Map1_Drone_E"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

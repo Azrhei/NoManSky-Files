@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="1520638881" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MUS_Loading24</ObjectPath>
+			<ShortName>MUS_Loading24</ShortName>
+			<Path>MUS_Loading24.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1520638881" Name="MUS_Loading24" ObjectPath="\Events\Default Work Unit\MUS_Loading\MUS_Loading24">
+					<IncludedMemoryFiles>
+						<File Id="30810395" Language="SFX">
+							<ShortName>Loading\MUS_Loading24.wav</ShortName>
+							<Path>SFX\Loading\MUS_Loading24_87F6733D.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

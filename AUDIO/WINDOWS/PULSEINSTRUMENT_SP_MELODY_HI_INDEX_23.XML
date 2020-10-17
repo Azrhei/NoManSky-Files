@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3372527309" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_SP_Melody_HI_Index_23</ObjectPath>
+			<ShortName>PulseInstrument_SP_Melody_HI_Index_23</ShortName>
+			<Path>PulseInstrument_SP_Melody_HI_Index_23.bnk</Path>
+			<IncludedEvents>
+				<Event Id="147035401" Name="Play_SP_Melody_HI_Index_23_echo_spaceHighInterestRev_1" ObjectPath="\Events\PulseInstruments\PulseInstrument_SP_Melody_HI_Index_23\Play_SP_Melody_HI_Index_23_echo_spaceHighInterestRev_1">
+					<ReferencedStreamedFiles>
+						<File Id="113798680" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="171582563" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_1_358B4EC2.wem</Path>
+						</File>
+						<File Id="237420891" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_3_358B4EC2.wem</Path>
+						</File>
+						<File Id="350918993" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="410352342" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_10.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_10_358B4EC2.wem</Path>
+						</File>
+						<File Id="699986111" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="716221275" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="743246791" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_9.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_9_358B4EC2.wem</Path>
+						</File>
+						<File Id="779413284" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_7_358B4EC2.wem</Path>
+						</File>
+						<File Id="797383527" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_23\echo_spaceHighInterestRev_4_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

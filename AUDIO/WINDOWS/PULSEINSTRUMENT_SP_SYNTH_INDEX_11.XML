@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3584219826" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_SP_Synth_Index_11</ObjectPath>
+			<ShortName>PulseInstrument_SP_Synth_Index_11</ShortName>
+			<Path>PulseInstrument_SP_Synth_Index_11.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3500246388" Name="Play_SP_Synth_Index_11_akira_spaceSynth_9" ObjectPath="\Events\PulseInstruments\PulseInstrument_SP_Synth_Index_11\Play_SP_Synth_Index_11_akira_spaceSynth_9">
+					<ReferencedStreamedFiles>
+						<File Id="55507789" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_7_358B4EC2.wem</Path>
+						</File>
+						<File Id="91948420" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="126387713" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_12.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_12_358B4EC2.wem</Path>
+						</File>
+						<File Id="167035642" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_11.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_11_358B4EC2.wem</Path>
+						</File>
+						<File Id="177616449" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="216986141" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_10.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_10_358B4EC2.wem</Path>
+						</File>
+						<File Id="244345896" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="283485712" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="691715695" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_9.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_9_358B4EC2.wem</Path>
+						</File>
+						<File Id="911973806" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_1_358B4EC2.wem</Path>
+						</File>
+						<File Id="1045702911" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_3_358B4EC2.wem</Path>
+						</File>
+						<File Id="1059196723" Language="SFX">
+							<ShortName>PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Synth_Index_11\akira_spaceSynth_2_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

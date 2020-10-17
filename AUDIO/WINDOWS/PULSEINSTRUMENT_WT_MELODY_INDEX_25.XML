@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="98329785" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_WT_Melody_Index_25</ObjectPath>
+			<ShortName>PulseInstrument_WT_Melody_Index_25</ShortName>
+			<Path>PulseInstrument_WT_Melody_Index_25.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3096393545" Name="Play_WT_Melody_Index_25_dashka_spacePiano_6" ObjectPath="\Events\PulseInstruments\PulseInstrument_WT_Melody_Index_25\Play_WT_Melody_Index_25_dashka_spacePiano_6">
+					<ReferencedStreamedFiles>
+						<File Id="132092128" Language="SFX">
+							<ShortName>PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_7_358B4EC2.wem</Path>
+						</File>
+						<File Id="243868199" Language="SFX">
+							<ShortName>PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="410314659" Language="SFX">
+							<ShortName>PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_9.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_9_358B4EC2.wem</Path>
+						</File>
+						<File Id="455576440" Language="SFX">
+							<ShortName>PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_1_358B4EC2.wem</Path>
+						</File>
+						<File Id="723651781" Language="SFX">
+							<ShortName>PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="796690811" Language="SFX">
+							<ShortName>PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="912764628" Language="SFX">
+							<ShortName>PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="957048898" Language="SFX">
+							<ShortName>PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="1072565355" Language="SFX">
+							<ShortName>PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Melody_Index_25\dashka_spacePiano_3_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

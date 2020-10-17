@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="443715732" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_PL_Guitar_01_Index_12</ObjectPath>
+			<ShortName>PulseInstrument_PL_Guitar_01_Index_12</ShortName>
+			<Path>PulseInstrument_PL_Guitar_01_Index_12.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2913554562" Name="Play_PL_Guitar_01_Index_12_atwood_gtrVerb_7" ObjectPath="\Events\PulseInstruments\PulseInstrument_PL_Guitar_01_Index_12\Play_PL_Guitar_01_Index_12_atwood_gtrVerb_7">
+					<ReferencedStreamedFiles>
+						<File Id="26161974" Language="SFX">
+							<ShortName>PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="75202480" Language="SFX">
+							<ShortName>PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="145699167" Language="SFX">
+							<ShortName>PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="258361755" Language="SFX">
+							<ShortName>PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="301827391" Language="SFX">
+							<ShortName>PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_9.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_9_358B4EC2.wem</Path>
+						</File>
+						<File Id="318977617" Language="SFX">
+							<ShortName>PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="778355203" Language="SFX">
+							<ShortName>PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_1_358B4EC2.wem</Path>
+						</File>
+						<File Id="1005106765" Language="SFX">
+							<ShortName>PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Guitar_01_Index_12\atwood_gtrVerb_7_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

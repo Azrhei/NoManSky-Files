@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="878654104" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_SP_Arp_HI_Index_21</ObjectPath>
+			<ShortName>PulseInstrument_SP_Arp_HI_Index_21</ShortName>
+			<Path>PulseInstrument_SP_Arp_HI_Index_21.bnk</Path>
+			<IncludedEvents>
+				<Event Id="318987984" Name="Play_SP_Arp_HI_Index_21_oct_arps_10" ObjectPath="\Events\PulseInstruments\PulseInstrument_SP_Arp_HI_Index_21\Play_SP_Arp_HI_Index_21_oct_arps_10">
+					<ReferencedStreamedFiles>
+						<File Id="149644816" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="209421718" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_1_358B4EC2.wem</Path>
+						</File>
+						<File Id="404171703" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_12.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_12_358B4EC2.wem</Path>
+						</File>
+						<File Id="478852514" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_3_358B4EC2.wem</Path>
+						</File>
+						<File Id="514694222" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_7_358B4EC2.wem</Path>
+						</File>
+						<File Id="528606362" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="756800903" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_9.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_9_358B4EC2.wem</Path>
+						</File>
+						<File Id="920257774" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="975204210" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_11.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_11_358B4EC2.wem</Path>
+						</File>
+						<File Id="1015588002" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="1037921344" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="1052237226" Language="SFX">
+							<ShortName>PulseInstruments\SP_Arp_HI_Index_21\oct_arps_10.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Arp_HI_Index_21\oct_arps_10_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3967200489" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_PL_Drone_01_Index_24</ObjectPath>
+			<ShortName>PulseInstrument_PL_Drone_01_Index_24</ShortName>
+			<Path>PulseInstrument_PL_Drone_01_Index_24.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1448240474" Name="Play_PL_Drone_01_Index_24_domo_planetIris_2" ObjectPath="\Events\PulseInstruments\PulseInstrument_PL_Drone_01_Index_24\Play_PL_Drone_01_Index_24_domo_planetIris_2">
+					<ReferencedStreamedFiles>
+						<File Id="15200127" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_12.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_12_358B4EC2.wem</Path>
+						</File>
+						<File Id="29363073" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_7_358B4EC2.wem</Path>
+						</File>
+						<File Id="128979192" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_1_358B4EC2.wem</Path>
+						</File>
+						<File Id="230570716" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_9.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_9_358B4EC2.wem</Path>
+						</File>
+						<File Id="326452141" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_11.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_11_358B4EC2.wem</Path>
+						</File>
+						<File Id="339208667" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="606951395" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="652772106" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="743510426" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="774899172" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="1003934515" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_3_358B4EC2.wem</Path>
+						</File>
+						<File Id="1005927797" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_10.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_24\domo_planetIris_10_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

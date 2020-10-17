@@ -1,0 +1,2724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (3.3.0)-->
+<Data template="TkAnimMetadata">
+  <Property name="FrameCount" value="101" />
+  <Property name="NodeCount" value="12" />
+  <Property name="NodeData">
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="TerminalJNT" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="0" />
+      <Property name="TransIndex" value="0" />
+      <Property name="ScaleIndex" value="0" />
+    </Property>
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="SummonShip" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="1" />
+      <Property name="TransIndex" value="3" />
+      <Property name="ScaleIndex" value="1" />
+    </Property>
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="LOOK_AT" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="2" />
+      <Property name="TransIndex" value="4" />
+      <Property name="ScaleIndex" value="2" />
+    </Property>
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="NAV_POI" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="3" />
+      <Property name="TransIndex" value="5" />
+      <Property name="ScaleIndex" value="3" />
+    </Property>
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="INTERACT" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="4" />
+      <Property name="TransIndex" value="6" />
+      <Property name="ScaleIndex" value="4" />
+    </Property>
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="Data" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="5" />
+      <Property name="TransIndex" value="7" />
+      <Property name="ScaleIndex" value="5" />
+    </Property>
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="TerminalData" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="6" />
+      <Property name="TransIndex" value="8" />
+      <Property name="ScaleIndex" value="6" />
+    </Property>
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="Dock" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="7" />
+      <Property name="TransIndex" value="9" />
+      <Property name="ScaleIndex" value="7" />
+    </Property>
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="Occupied2" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="8" />
+      <Property name="TransIndex" value="1" />
+      <Property name="ScaleIndex" value="8" />
+    </Property>
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="Empty2" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="9" />
+      <Property name="TransIndex" value="2" />
+      <Property name="ScaleIndex" value="9" />
+    </Property>
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="Occupied3" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="10" />
+      <Property name="TransIndex" value="10" />
+      <Property name="ScaleIndex" value="10" />
+    </Property>
+    <Property value="TkAnimNodeData.xml">
+      <Property name="Node" value="Empty3" />
+      <Property name="CanCompress" value="True" />
+      <Property name="RotIndex" value="11" />
+      <Property name="TransIndex" value="11" />
+      <Property name="ScaleIndex" value="11" />
+    </Property>
+  </Property>
+  <Property name="AnimFrameData">
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0759284943" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.07811836" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.07811836" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0791314244" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.08452422" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.08452422" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.08739162" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.101044618" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.101044618" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0986861661" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.123633705" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.123633705" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.110992156" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.148245692" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.148245692" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.12228667" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.17083472" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.17083472" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.130546808" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.187354982" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.187354982" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.133749679" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.193760723" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.193760723" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.133096069" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.1924535" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.1924535" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.131159231" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.188579828" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.188579828" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.127975047" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.182211459" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.182211459" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.1235794" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.173420161" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.173420161" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.118008189" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.162277758" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.162277758" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.111297309" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.148855984" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.148855984" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.103482641" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.133226663" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.133226663" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0946001038" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.11546158" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.11546158" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.08468554" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0956324562" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0956324562" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.07377491" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0738111958" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0738111958" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.061904043" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.05006946" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.05006946" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.04910888" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0244791359" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0244791359" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0354252681" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.002888091" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.002888091" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.0208891444" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.03196034" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.03196034" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="0.00553635042" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.06266593" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.06266593" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.0105971647" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.09493295" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.09493295" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.0274755657" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.128689766" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.128689766" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.0450629033" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.163864434" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.163864434" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.06332334" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.2003853" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.2003853" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.08222093" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.238180473" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.238180473" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.101719841" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.2771783" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.2771783" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.121784121" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.317306876" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.317306876" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.142377943" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.35849452" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.35849452" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.163465321" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.400669277" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.400669277" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.185010508" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.44375962" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.44375962" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.206977457" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.487693548" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.487693548" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.229330331" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.5323993" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.5323993" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.252033234" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.5778051" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.5778051" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.275050372" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.6238394" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.6238394" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.2983457" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.670430064" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.670430064" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.3218834" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.717505455" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.717505455" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.345627576" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.7649938" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.7649938" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.36954242" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.8128235" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.8128235" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.393591881" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.8609224" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.8609224" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.417740136" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9092189" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9092189" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.441951245" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9576411" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9576411" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.466189474" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.00611758" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.00611758" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.4904188" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.05457616" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.05457616" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.5146033" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.10294533" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.10294533" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.538707256" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.15115309" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.15115309" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.56269455" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.19912767" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.19912767" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.5865294" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.24679732" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.24679732" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.6101759" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.29409051" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.29409051" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.633598268" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.34093523" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.34093523" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.656760454" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.38725948" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.38725948" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.6796266" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.43299174" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.43299174" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.702160835" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.47806025" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.47806025" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.7243273" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.52239323" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.52239323" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.746090055" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.56591868" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.56591868" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.767413259" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.60856509" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.60856509" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.788260937" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.65026045" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.65026045" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.8085973" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.69093323" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.69093323" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.828386366" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.73051143" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.73051143" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.8475923" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.76892328" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.76892328" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.866179168" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.806097" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.806097" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.8841111" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.84196091" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.84196091" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9013523" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.87644315" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.87644315" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.917866647" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.909472" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.909472" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9336184" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.94097543" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.94097543" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9485717" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.97088194" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.97088194" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.962690532" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.99911976" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.99911976" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.975939155" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.025617" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.025617" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.988281548" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.05030179" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.05030179" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9979022" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.06954312" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.06954312" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.00348461" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.08070779" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.08070779" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.00574136" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.08522129" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.08522129" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.00538492" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.08450842" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.08450842" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.00312829" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.07999516" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.07999516" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9996839" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.07310653" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.07310653" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9957644" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.06526732" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.06526732" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9920824" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.05790353" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.05790353" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.989350557" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.05243969" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.05243969" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9882816" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.05030179" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.05030179" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.989177167" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.052093" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.052093" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.9917402" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.057219" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.057219" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-0.995785654" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.06531" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.06531" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.00112808" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.07599473" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.07599473" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.00758219" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.088903" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.088903" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.01496279" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.10366416" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.10366416" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.02308452" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.11990762" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.11990762" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.03176212" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.13726282" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.13726282" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.04081035" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.15535927" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.15535927" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.05004382" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.17382622" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.17382622" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.05927718" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.192293" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.192293" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.06832528" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.21038914" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.21038914" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.07700288" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.22774434" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.22774434" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.08512473" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.243988" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.243988" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.09250534" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.25874925" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.25874925" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.09895945" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.27165747" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.27165747" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.10430193" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.28234243" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.28234243" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.1083473" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.29043317" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.29043317" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.11091042" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.29555941" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.29555941" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+    <Property value="TkAnimNodeFrameData.xml">
+      <Property name="Rotations" />
+      <Property name="Translations">
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-1.111806" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.29735065" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+        <Property value="Vector4f.xml">
+          <Property name="x" value="-9.903915" />
+          <Property name="y" value="-2.29735065" />
+          <Property name="z" value="9.868295" />
+          <Property name="t" value="1" />
+        </Property>
+      </Property>
+      <Property name="Scales" />
+    </Property>
+  </Property>
+  <Property name="StillFrameData" value="TkAnimNodeFrameData.xml">
+    <Property name="Rotations">
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+      <Property value="Quaternion.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="w" value="1" />
+      </Property>
+    </Property>
+    <Property name="Translations">
+      <Property value="Vector4f.xml">
+        <Property name="x" value="-9.887155" />
+        <Property name="y" value="0.770460546" />
+        <Property name="z" value="11.0851326" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="-9.887155" />
+        <Property name="y" value="1.18011045" />
+        <Property name="z" value="11.2503033" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="-9.887155" />
+        <Property name="y" value="0.2585113" />
+        <Property name="z" value="12.0511036" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="-9.887155" />
+        <Property name="y" value="1.06797528" />
+        <Property name="z" value="11.2756548" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0.199999988" />
+        <Property name="z" value="0" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="0" />
+        <Property name="y" value="0" />
+        <Property name="z" value="0" />
+        <Property name="t" value="1" />
+      </Property>
+    </Property>
+    <Property name="Scales">
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+      <Property value="Vector4f.xml">
+        <Property name="x" value="1" />
+        <Property name="y" value="1" />
+        <Property name="z" value="1" />
+        <Property name="t" value="1" />
+      </Property>
+    </Property>
+  </Property>
+</Data>

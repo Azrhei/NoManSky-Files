@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3916272924" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_MAP_Singles_02_Index_01</ObjectPath>
+			<ShortName>PulseInstrument_MAP_Singles_02_Index_01</ShortName>
+			<Path>PulseInstrument_MAP_Singles_02_Index_01.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2137135100" Name="Play_MAP_Singles_02_Index_01_MUS_Map01_Singles2_09" ObjectPath="\Events\PulseInstruments\PulseInstrument_MAP_Singles_02_Index_01\Play_MAP_Singles_02_Index_01_MUS_Map01_Singles2_09">
+					<ReferencedStreamedFiles>
+						<File Id="32999792" Language="SFX">
+							<ShortName>PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_05.wav</ShortName>
+							<Path>SFX\PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_05_358B4EC2.wem</Path>
+						</File>
+						<File Id="256570166" Language="SFX">
+							<ShortName>PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_04.wav</ShortName>
+							<Path>SFX\PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_04_358B4EC2.wem</Path>
+						</File>
+						<File Id="376048064" Language="SFX">
+							<ShortName>PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_02.wav</ShortName>
+							<Path>SFX\PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_02_358B4EC2.wem</Path>
+						</File>
+						<File Id="472422864" Language="SFX">
+							<ShortName>PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_03.wav</ShortName>
+							<Path>SFX\PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_03_358B4EC2.wem</Path>
+						</File>
+						<File Id="533548513" Language="SFX">
+							<ShortName>PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_06.wav</ShortName>
+							<Path>SFX\PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_06_358B4EC2.wem</Path>
+						</File>
+						<File Id="679295638" Language="SFX">
+							<ShortName>PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_07.wav</ShortName>
+							<Path>SFX\PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_07_358B4EC2.wem</Path>
+						</File>
+						<File Id="857441103" Language="SFX">
+							<ShortName>PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_10.wav</ShortName>
+							<Path>SFX\PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_10_358B4EC2.wem</Path>
+						</File>
+						<File Id="981491938" Language="SFX">
+							<ShortName>PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_09.wav</ShortName>
+							<Path>SFX\PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_09_358B4EC2.wem</Path>
+						</File>
+						<File Id="1036191228" Language="SFX">
+							<ShortName>PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_08.wav</ShortName>
+							<Path>SFX\PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_08_358B4EC2.wem</Path>
+						</File>
+						<File Id="1063548592" Language="SFX">
+							<ShortName>PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_01.wav</ShortName>
+							<Path>SFX\PulseInstruments\MAP_Singles_02_Index_01\MUS_Map01_Singles2_01_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="3642758646" Name="Stop_MAP_Singles_02_Index_01_MUS_Map01_Singles2_09" ObjectPath="\Events\PulseInstruments\PulseInstrument_MAP_Singles_02_Index_01\Stop_MAP_Singles_02_Index_01_MUS_Map01_Singles2_09"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

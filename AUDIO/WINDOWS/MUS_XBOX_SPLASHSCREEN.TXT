@@ -1,0 +1,72 @@
+Event	ID	Name			Wwise Object Path	Notes
+	103385342	UI_Interact_Timer			\Default Work Unit\UI\UI_Interact_Timer	
+	781172048	UI_GameMode_Select			\Default Work Unit\UI\UI_GameMode_Select	
+	1484538141	UI_Interact_Timer_Stop			\Default Work Unit\UI\UI_Interact_Timer_Stop	
+	2314111119	MUS_XBOX_SplashScreen_Stop			\Default Work Unit\MUS_Loading\MUS_XBOX_SplashScreen_Stop	
+	2578439328	MUS_XBOX_SplashScreen			\Default Work Unit\Music_Stings\MUS_XBOX_SplashScreen	
+	2654147108	UI_FrontEnd_Back			\Default Work Unit\UI\UI_FrontEnd_Back	
+	2852869421	UI_FrontEnd_Enter			\Default Work Unit\UI\UI_FrontEnd_Enter	
+	3993814526	UI_GameMode_Hover			\Default Work Unit\UI\UI_GameMode_Hover	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1534528569	VR			\Default Work Unit\VR	
+	1551306167	UI			\Default Work Unit\UI	
+
+State	ID	Name	State Group			Notes
+	748895195	None	VR			
+	979470758	Yes	VR			
+	1668749452	No	VR			
+	498404561	AmbiCam	UI			
+	743606050	Photomode	UI			
+	748895195	None	UI			
+	780112199	Overlay	UI			
+	1035353295	Bytebeat	UI			
+	1048449605	Map	UI			
+	4212191649	Frontend	UI			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	377878494	Yes	VR	\Actor-Mixer Hierarchy\UI\UI\UI_Background_Front		
+	480869006	No	VR	\Actor-Mixer Hierarchy\UI\UI\VR\UI_VR_WristMenu_PanelOpen		
+	547784342	Yes	VR	\Actor-Mixer Hierarchy\UI\UI\UI_FrontEnd_Enter		
+	640862418	Photomode	UI	\Actor-Mixer Hierarchy\UI\UI\UI_Background_Rear		
+	824091517	Bytebeat	UI	\Actor-Mixer Hierarchy\UI\UI\UI_Background_Rear		
+	855518148	Photomode	UI	\Actor-Mixer Hierarchy\UI\UI\UI_Background_Front		
+	1044839868	Bytebeat	UI	\Actor-Mixer Hierarchy\UI\UI\UI_Background_Front		
+	1065663275	Yes	VR	\Actor-Mixer Hierarchy\UI\UI\UI_Background_Rear		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	518502437	Interact_Timer			\Default Work Unit\Misc\Interact_Timer	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	196340816	UI_Menu_VR_Woosh_Open_02	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\VR\UI_Menu_VR_Woosh_Open_02_85E4940F.wem		\Actor-Mixer Hierarchy\UI\UI\VR\UI_VR_WristMenu_PanelOpen\UI_Menu_VR_Woosh_Open_02		11767
+	258857973	UI_Menu_VR_Woosh_Open_01	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\VR\UI_Menu_VR_Woosh_Open_01_85E4940F.wem		\Actor-Mixer Hierarchy\UI\UI\VR\UI_VR_WristMenu_PanelOpen\UI_Menu_VR_Woosh_Open_01		11289
+	456170229	UI_FrontEnd_Enter_03	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_FrontEnd_Enter_03_85E4940F.wem		\Actor-Mixer Hierarchy\UI\UI\UI_FrontEnd_Enter\UI_FrontEnd_Enter_03		31030
+	482366531	UI_FrontEnd_Back	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_FrontEnd_Back_85E4940F.wem		\Actor-Mixer Hierarchy\UI\UI\UI_FrontEnd_Back		16412
+	579341872	UI_Menu_VR_Woosh_Open_03	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\VR\UI_Menu_VR_Woosh_Open_03_85E4940F.wem		\Actor-Mixer Hierarchy\UI\UI\VR\UI_VR_WristMenu_PanelOpen\UI_Menu_VR_Woosh_Open_03		12306
+	713764153	XBOX_SplashScreen_Music	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\Music_Stings\XBOX_SplashScreen_Music_87F6733D.wem		\Actor-Mixer Hierarchy\Music_Misc\XBOX_SplashScreen_Music		3634783
+	766484612	UI_FrontEnd_Enter_04	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_FrontEnd_Enter_04_85E4940F.wem		\Actor-Mixer Hierarchy\UI\UI\UI_FrontEnd_Enter\UI_FrontEnd_Enter_04		27691
+	962157839	UI_FrontEnd_Enter_01	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_FrontEnd_Enter_01_85E4940F.wem		\Actor-Mixer Hierarchy\UI\UI\UI_FrontEnd_Enter\UI_FrontEnd_Enter_01		33977
+	978276125	UI_Menu_VR_Woosh_Open_04	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\VR\UI_Menu_VR_Woosh_Open_04_85E4940F.wem		\Actor-Mixer Hierarchy\UI\UI\VR\UI_VR_WristMenu_PanelOpen\UI_Menu_VR_Woosh_Open_04		14893
+	1018938466	UI_FrontEnd_Enter_02	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_FrontEnd_Enter_02_85E4940F.wem		\Actor-Mixer Hierarchy\UI\UI\UI_FrontEnd_Enter\UI_FrontEnd_Enter_02		30718
+	1047954987	UI_Menu_VR_Woosh_Open_05	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\VR\UI_Menu_VR_Woosh_Open_05_85E4940F.wem		\Actor-Mixer Hierarchy\UI\UI\VR\UI_VR_WristMenu_PanelOpen\UI_Menu_VR_Woosh_Open_05		14599
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	161281174	UI_GameMode_Hover_04	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_GameMode_Hover_04_85E4940F.wem	161281174.wem	\Actor-Mixer Hierarchy\UI\UI\GameMode\UI_GameMode_Hover\UI_GameMode_Hover_04	
+	293391726	UI_Interact_Loop_03	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_Interact_Loop_03_87F6733D.wem	293391726.wem	\Actor-Mixer Hierarchy\UI\UI\UI_Interact_Timer\UI_Interact_Loop_03	
+	353366928	UI_GameMode_Hover_03	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_GameMode_Hover_03_85E4940F.wem	353366928.wem	\Actor-Mixer Hierarchy\UI\UI\GameMode\UI_GameMode_Hover\UI_GameMode_Hover_03	
+	389347369	UI_Interact_Loop_04	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_Interact_Loop_04_87F6733D.wem	389347369.wem	\Actor-Mixer Hierarchy\UI\UI\UI_Interact_Timer\UI_Interact_Loop_04	
+	472055043	UI_GameMode_Hover_01	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_GameMode_Hover_01_85E4940F.wem	472055043.wem	\Actor-Mixer Hierarchy\UI\UI\GameMode\UI_GameMode_Hover\UI_GameMode_Hover_01	
+	483379598	UI_Background_Front	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_Background_Front_87F6733D.wem	483379598.wem	\Actor-Mixer Hierarchy\UI\UI\UI_Background_Front	
+	494791946	UI_Interact_Loop_01	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_Interact_Loop_01_87F6733D.wem	494791946.wem	\Actor-Mixer Hierarchy\UI\UI\UI_Interact_Timer\UI_Interact_Loop_01	
+	509047041	UI_GameMode_Hover_07	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_GameMode_Hover_07_85E4940F.wem	509047041.wem	\Actor-Mixer Hierarchy\UI\UI\GameMode\UI_GameMode_Hover\UI_GameMode_Hover_07	
+	512022765	UI_GameMode_Select_01	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_GameMode_Select_01_85E4940F.wem	512022765.wem	\Actor-Mixer Hierarchy\UI\UI\GameMode\UI_GameMode_Select\UI_GameMode_Select_01	
+	524193734	UI_Background_Rear	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_Background_Rear_87F6733D.wem	524193734.wem	\Actor-Mixer Hierarchy\UI\UI\UI_Background_Rear	
+	576581659	UI_GameMode_Select_03	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_GameMode_Select_03_85E4940F.wem	576581659.wem	\Actor-Mixer Hierarchy\UI\UI\GameMode\UI_GameMode_Select\UI_GameMode_Select_03	
+	597971424	UI_GameMode_Hover_06	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_GameMode_Hover_06_85E4940F.wem	597971424.wem	\Actor-Mixer Hierarchy\UI\UI\GameMode\UI_GameMode_Hover\UI_GameMode_Hover_06	
+	725370056	UI_Interact_Loop_02	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_Interact_Loop_02_87F6733D.wem	725370056.wem	\Actor-Mixer Hierarchy\UI\UI\UI_Interact_Timer\UI_Interact_Loop_02	
+	853015048	UI_Interact_Loop_06	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_Interact_Loop_06_87F6733D.wem	853015048.wem	\Actor-Mixer Hierarchy\UI\UI\UI_Interact_Timer\UI_Interact_Loop_06	
+	899842530	UI_Interact_Loop_05	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_Interact_Loop_05_87F6733D.wem	899842530.wem	\Actor-Mixer Hierarchy\UI\UI\UI_Interact_Timer\UI_Interact_Loop_05	
+	919263694	UI_GameMode_Hover_02	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_GameMode_Hover_02_85E4940F.wem	919263694.wem	\Actor-Mixer Hierarchy\UI\UI\GameMode\UI_GameMode_Hover\UI_GameMode_Hover_02	
+	995133205	UI_GameMode_Select_02	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_GameMode_Select_02_85E4940F.wem	995133205.wem	\Actor-Mixer Hierarchy\UI\UI\GameMode\UI_GameMode_Select\UI_GameMode_Select_02	
+	1044454388	UI_GameMode_Hover_05	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\SFX\UI\UI_GameMode_Hover_05_85E4940F.wem	1044454388.wem	\Actor-Mixer Hierarchy\UI\UI\GameMode\UI_GameMode_Hover\UI_GameMode_Hover_05	
+

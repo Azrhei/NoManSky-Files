@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3916867607" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_PL_Drone_01_Index_13</ObjectPath>
+			<ShortName>PulseInstrument_PL_Drone_01_Index_13</ShortName>
+			<Path>PulseInstrument_PL_Drone_01_Index_13.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1341298234" Name="Play_PL_Drone_01_Index_13_beyond_planetDrone_9" ObjectPath="\Events\PulseInstruments\PulseInstrument_PL_Drone_01_Index_13\Play_PL_Drone_01_Index_13_beyond_planetDrone_9">
+					<ReferencedStreamedFiles>
+						<File Id="16976741" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="20834588" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_10.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_10_358B4EC2.wem</Path>
+						</File>
+						<File Id="50510677" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="54633525" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_3_358B4EC2.wem</Path>
+						</File>
+						<File Id="138525544" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="174490087" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_9.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_9_358B4EC2.wem</Path>
+						</File>
+						<File Id="256594331" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_7_358B4EC2.wem</Path>
+						</File>
+						<File Id="574400592" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="583958987" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_11.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_11_358B4EC2.wem</Path>
+						</File>
+						<File Id="626736277" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="683228221" Language="SFX">
+							<ShortName>PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\PL_Drone_01_Index_13\beyond_planetDrone_1_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

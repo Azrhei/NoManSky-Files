@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="44733569" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_WT_Drums_Index_02</ObjectPath>
+			<ShortName>PulseInstrument_WT_Drums_Index_02</ShortName>
+			<Path>PulseInstrument_WT_Drums_Index_02.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3523044906" Name="Play_WT_Drums_Index_02_ASIM_drumsDirty_128bpm_6" ObjectPath="\Events\PulseInstruments\PulseInstrument_WT_Drums_Index_02\Play_WT_Drums_Index_02_ASIM_drumsDirty_128bpm_6">
+					<ReferencedStreamedFiles>
+						<File Id="313907" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_10.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_10_358B4EC2.wem</Path>
+						</File>
+						<File Id="73653582" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="215502749" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="241326986" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="319813523" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_11.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_11_358B4EC2.wem</Path>
+						</File>
+						<File Id="325095283" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_7_358B4EC2.wem</Path>
+						</File>
+						<File Id="385762362" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="414665094" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="555606623" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_1_358B4EC2.wem</Path>
+						</File>
+						<File Id="655883610" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_12.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_12_358B4EC2.wem</Path>
+						</File>
+						<File Id="661236670" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_9.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_9_358B4EC2.wem</Path>
+						</File>
+						<File Id="1049515068" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_02\ASIM_drumsDirty_128bpm_3_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="2381251412" Name="Stop_WT_Drums_Index_02_ASIM_drumsDirty_128bpm_6" ObjectPath="\Events\PulseInstruments\PulseInstrument_WT_Drums_Index_02\Stop_WT_Drums_Index_02_ASIM_drumsDirty_128bpm_6"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

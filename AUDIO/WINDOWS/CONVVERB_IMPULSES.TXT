@@ -1,0 +1,46 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2025709351	Vehicle			\Default Work Unit\Vehicle	
+
+State	ID	Name	State Group			Notes
+	554650843	Spaceship	Vehicle			
+	748895195	None	Vehicle			
+	2427673455	Land_Vehicle	Vehicle			
+	2468079403	Land_Vehicle_FirstPerson	Vehicle			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	1038415448	Spaceship	Vehicle	\Effects\IR\PW_Impulses\Vehicle_Buggy		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1275284849	Planet_Time			\Default Work Unit\Misc\Planet_Time	
+	3691066168	ByteBeat_FX			\Default Work Unit\Misc\ByteBeat_FX	
+
+Effect plug-ins	ID	Name	Type				Notes
+	395318481	ConVerb_ByteBeat	Wwise Convolution Reverb			
+	603650841	ConVerb_Suit_Impulse_02	Wwise Convolution Reverb			
+	891899400	Vehicle_Buggy	Wwise Convolution Reverb			
+	1402296952	Suit_Impulse_Storm	Wwise Convolution Reverb			
+	1702081224	ConVerb_Cave	Wwise Convolution Reverb			
+	2522684065	ConVerb_Indoors	Wwise Convolution Reverb			
+	2597312644	ConVerb_Outdoors	Wwise Convolution Reverb			
+	2831101475	ConVerb_Grunt2	Wwise Convolution Reverb			
+	2882922981	ConVerb_Antelope	Wwise Convolution Reverb			
+	3099816558	ConVerb_Blob	Wwise Convolution Reverb			
+	3344099458	Fauna_01	Wwise Convolution Reverb			
+	3673105085	ConVerb_Cat	Wwise Convolution Reverb			
+	3840881392	ConVerb_Cow	Wwise Convolution Reverb			
+	4112311402	ConVerb_TRex	Wwise Convolution Reverb			
+
+Plug-in Media	ID	Name	Source file	Type	Wwise Object Path	Notes	Data Size
+	75286418	ConVerb_ByteBeat	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\IMP_ByteBeat_Verb01_dc_5D9795FC.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\PW_Impulses\ConVerb_ByteBeat		546880
+	100784953	ConVerb_Cave	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\Cave_Verb_2016_dc_0D3D588A.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\Interior\ConVerb_Cave		401056
+	186738009	ConVerb_Indoors	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\Indoor_Verb_2016_4FCF7153.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\Interior\ConVerb_Indoors		180320
+	212528033	ConVerb_Cow	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\Mouth Impulses_03_7C5D9F3F.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\PW_Impulses\ConVerb_Cow		20480
+	340159261	Suit_Impulse_Storm	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\Suit_Impulse_02_BFF14833.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\Outdoors\Suit_Impulse_Storm		108752
+	424668749	ConVerb_Blob	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\Mouth Impulses_11_D994EE11.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\PW_Impulses\ConVerb_Blob		12352
+	701210628	ConVerb_TRex	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\Mouth Impulses_17_13EE79B9.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\PW_Impulses\ConVerb_TRex		53008
+	843861018	ConVerb_Cat	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\Mouth Impulses_12_E6860696.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\PW_Impulses\ConVerb_Cat		15680
+	864806521	ConVerb_Antelope	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\Mouth Impulses_04_273750D0.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\PW_Impulses\ConVerb_Antelope		40464
+	916279864	ConVerb_Grunt2	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\Mouth Impulses_01_E5FE1214.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\PW_Impulses\ConVerb_Grunt2		9728
+	942885706	Fauna_01	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\Fauna_01_37AD0293.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\Outdoors\Fauna_01		225056
+	968865672	ConVerb_Outdoors	T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\Plugins\Wwise Convolution Reverb\OutdoorVerb_2018_01_dc_615C2CD5.wem	Wwise Convolution Reverb (Shared)	\Effects\IR\Outdoors\ConVerb_Outdoors		496432
+

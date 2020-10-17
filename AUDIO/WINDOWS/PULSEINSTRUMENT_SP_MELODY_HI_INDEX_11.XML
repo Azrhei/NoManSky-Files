@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3355749722" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_SP_Melody_HI_Index_11</ObjectPath>
+			<ShortName>PulseInstrument_SP_Melody_HI_Index_11</ShortName>
+			<Path>PulseInstrument_SP_Melody_HI_Index_11.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1200277777" Name="Play_SP_Melody_HI_Index_11_akira_dulceCluster_7" ObjectPath="\Events\PulseInstruments\PulseInstrument_SP_Melody_HI_Index_11\Play_SP_Melody_HI_Index_11_akira_dulceCluster_7">
+					<ReferencedStreamedFiles>
+						<File Id="86539317" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="380750351" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="433211500" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_1_358B4EC2.wem</Path>
+						</File>
+						<File Id="526249621" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_3_358B4EC2.wem</Path>
+						</File>
+						<File Id="812103308" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="827110443" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="869102666" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="953253113" Language="SFX">
+							<ShortName>PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Melody_HI_Index_11\akira_dulceCluster_7_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3492193803" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_SP_Harp_Index_08</ObjectPath>
+			<ShortName>PulseInstrument_SP_Harp_Index_08</ShortName>
+			<Path>PulseInstrument_SP_Harp_Index_08.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4047888064" Name="Play_SP_Harp_Index_08_ascension_harp_4" ObjectPath="\Events\PulseInstruments\PulseInstrument_SP_Harp_Index_08\Play_SP_Harp_Index_08_ascension_harp_4">
+					<ReferencedStreamedFiles>
+						<File Id="141263687" Language="SFX">
+							<ShortName>PulseInstruments\SP_Harp_Index_08\ascension_harp_10.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Harp_Index_08\ascension_harp_10_358B4EC2.wem</Path>
+						</File>
+						<File Id="145274804" Language="SFX">
+							<ShortName>PulseInstruments\SP_Harp_Index_08\ascension_harp_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Harp_Index_08\ascension_harp_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="236438912" Language="SFX">
+							<ShortName>PulseInstruments\SP_Harp_Index_08\ascension_harp_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Harp_Index_08\ascension_harp_1_358B4EC2.wem</Path>
+						</File>
+						<File Id="259964802" Language="SFX">
+							<ShortName>PulseInstruments\SP_Harp_Index_08\ascension_harp_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Harp_Index_08\ascension_harp_3_358B4EC2.wem</Path>
+						</File>
+						<File Id="396248288" Language="SFX">
+							<ShortName>PulseInstruments\SP_Harp_Index_08\ascension_harp_9.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Harp_Index_08\ascension_harp_9_358B4EC2.wem</Path>
+						</File>
+						<File Id="428286084" Language="SFX">
+							<ShortName>PulseInstruments\SP_Harp_Index_08\ascension_harp_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Harp_Index_08\ascension_harp_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="620154915" Language="SFX">
+							<ShortName>PulseInstruments\SP_Harp_Index_08\ascension_harp_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Harp_Index_08\ascension_harp_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="651337189" Language="SFX">
+							<ShortName>PulseInstruments\SP_Harp_Index_08\ascension_harp_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Harp_Index_08\ascension_harp_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="856215212" Language="SFX">
+							<ShortName>PulseInstruments\SP_Harp_Index_08\ascension_harp_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Harp_Index_08\ascension_harp_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="955197678" Language="SFX">
+							<ShortName>PulseInstruments\SP_Harp_Index_08\ascension_harp_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\SP_Harp_Index_08\ascension_harp_7_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

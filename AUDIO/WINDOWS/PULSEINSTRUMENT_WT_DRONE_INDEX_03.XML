@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="2361026067" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_WT_Drone_Index_03</ObjectPath>
+			<ShortName>PulseInstrument_WT_Drone_Index_03</ShortName>
+			<Path>PulseInstrument_WT_Drone_Index_03.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1830718450" Name="Play_WT_Drone_Index_03_departure_gtr_Emin_9" ObjectPath="\Events\PulseInstruments\PulseInstrument_WT_Drone_Index_03\Play_WT_Drone_Index_03_departure_gtr_Emin_9">
+					<ReferencedStreamedFiles>
+						<File Id="203668591" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_9.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_9_358B4EC2.wem</Path>
+						</File>
+						<File Id="292304548" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="371417680" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="531293591" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_1_358B4EC2.wem</Path>
+						</File>
+						<File Id="580294409" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_3_358B4EC2.wem</Path>
+						</File>
+						<File Id="732078556" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_11.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_11_358B4EC2.wem</Path>
+						</File>
+						<File Id="831257473" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_7_358B4EC2.wem</Path>
+						</File>
+						<File Id="996182788" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="1027996818" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="1066193987" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="1070955074" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_10.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drone_Index_03\departure_gtr_Emin_10_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

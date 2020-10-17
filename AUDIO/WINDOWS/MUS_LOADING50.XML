@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="1403195552" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MUS_Loading50</ObjectPath>
+			<ShortName>MUS_Loading50</ShortName>
+			<Path>MUS_Loading50.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1403195552" Name="MUS_Loading50" ObjectPath="\Events\Default Work Unit\MUS_Loading\MUS_Loading50">
+					<IncludedMemoryFiles>
+						<File Id="340331161" Language="SFX">
+							<ShortName>Loading\MUS_Loading50.wav</ShortName>
+							<Path>SFX\Loading\MUS_Loading50_87F6733D.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

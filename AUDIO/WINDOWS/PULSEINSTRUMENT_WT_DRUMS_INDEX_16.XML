@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\</ProjectRoot>
+		<SourceFilesRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\GAMEDATA\Audio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>T:\BUILDAGENT\WORK\9A7A8DD8B2E0B6C8\GAME\ASSETS\EXPORTED\AUDIO\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="27955990" Language="SFX">
+			<ObjectPath>\SoundBanks\PulseInstruments\PulseInstrument_WT_Drums_Index_16</ObjectPath>
+			<ShortName>PulseInstrument_WT_Drums_Index_16</ShortName>
+			<Path>PulseInstrument_WT_Drums_Index_16.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3271557999" Name="Play_WT_Drums_Index_16_monoAlt_wantedLoops_8" ObjectPath="\Events\PulseInstruments\PulseInstrument_WT_Drums_Index_16\Play_WT_Drums_Index_16_monoAlt_wantedLoops_8">
+					<ReferencedStreamedFiles>
+						<File Id="166129580" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_1.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_1_358B4EC2.wem</Path>
+						</File>
+						<File Id="215432713" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_5.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_5_358B4EC2.wem</Path>
+						</File>
+						<File Id="406475288" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_3.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_3_358B4EC2.wem</Path>
+						</File>
+						<File Id="559275874" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_9.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_9_358B4EC2.wem</Path>
+						</File>
+						<File Id="680182349" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_2.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_2_358B4EC2.wem</Path>
+						</File>
+						<File Id="725965132" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_8.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_8_358B4EC2.wem</Path>
+						</File>
+						<File Id="755852709" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_6.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_6_358B4EC2.wem</Path>
+						</File>
+						<File Id="933334669" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_10.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_10_358B4EC2.wem</Path>
+						</File>
+						<File Id="950616298" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_4.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_4_358B4EC2.wem</Path>
+						</File>
+						<File Id="983045110" Language="SFX">
+							<ShortName>PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_7.wav</ShortName>
+							<Path>SFX\PulseInstruments\WT_Drums_Index_16\monoAlt_wantedLoops_7_358B4EC2.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="2258686837" Name="Stop_WT_Drums_Index_16_monoAlt_wantedLoops_8" ObjectPath="\Events\PulseInstruments\PulseInstrument_WT_Drums_Index_16\Stop_WT_Drums_Index_16_monoAlt_wantedLoops_8"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="18151427" Name="Pulse_Event_PanLR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanLR"/>
+				<GameParameter Id="1891889666" Name="Pulse_Event_Pitch" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Pitch"/>
+				<GameParameter Id="2954454836" Name="Pulse_Event_SendBus_03" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_03"/>
+				<GameParameter Id="2954454837" Name="Pulse_Event_SendBus_02" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_02"/>
+				<GameParameter Id="2954454838" Name="Pulse_Event_SendBus_01" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_01"/>
+				<GameParameter Id="2954454839" Name="Pulse_Event_SendBus_00" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_SendBus_00"/>
+				<GameParameter Id="3465058902" Name="Pulse_Event_Volume" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_Volume"/>
+				<GameParameter Id="4145342657" Name="Pulse_Event_PanFR" ObjectPath="\Game Parameters\Default Work Unit\Pulse\Pulse_Event_PanFR"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
