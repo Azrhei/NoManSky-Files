@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcHUDLayerData">
   <Property name="Data" value="GcHUDComponent.xml">
-    <Property name="Id" value="" />
+    <Property name="ID" value="" />
     <Property name="PosX" value="0" />
     <Property name="PosY" value="0" />
     <Property name="Width" value="50" />
@@ -12,7 +12,7 @@
   <Property name="Children">
     <Property value="GcHUDImageData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="WEAPONMASK" />
+        <Property name="ID" value="WEAPONMASK" />
         <Property name="PosX" value="914" />
         <Property name="PosY" value="1" />
         <Property name="Width" value="368" />
@@ -29,7 +29,7 @@
     </Property>
     <Property value="GcHUDImageData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="HEALTHMASK" />
+        <Property name="ID" value="HEALTHMASK" />
         <Property name="PosX" value="0" />
         <Property name="PosY" value="0" />
         <Property name="Width" value="368" />
@@ -46,7 +46,7 @@
     </Property>
     <Property value="GcHUDImageData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="UNITSMASK" />
+        <Property name="ID" value="UNITSMASK" />
         <Property name="PosX" value="-5" />
         <Property name="PosY" value="116" />
         <Property name="Width" value="184" />
@@ -63,7 +63,7 @@
     </Property>
     <Property value="GcHUDImageData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="GEIGERMASK" />
+        <Property name="ID" value="GEIGERMASK" />
         <Property name="PosX" value="-53" />
         <Property name="PosY" value="137" />
         <Property name="Width" value="368" />
@@ -80,7 +80,7 @@
     </Property>
     <Property value="GcHUDImageData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="ATMOSPHEREMASK" />
+        <Property name="ID" value="ATMOSPHEREMASK" />
         <Property name="PosX" value="-58" />
         <Property name="PosY" value="201" />
         <Property name="Width" value="368" />
@@ -97,7 +97,7 @@
     </Property>
     <Property value="GcHUDImageData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="OXYGENMASK" />
+        <Property name="ID" value="OXYGENMASK" />
         <Property name="PosX" value="942" />
         <Property name="PosY" value="99" />
         <Property name="Width" value="50" />

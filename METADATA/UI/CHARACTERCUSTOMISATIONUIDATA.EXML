@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcCustomisationUIData">
   <Property name="CustomisationUIData">
     <Property name="Player" value="GcCustomisationUI.xml">
@@ -2135,6 +2135,52 @@
                         <Property name="BoneScales" />
                         <Property name="InteractionCameraIndexOverride" value="0" />
                         <Property name="InteracttionCameraFocusJointOverride" value="player01_head_TopSHJnt" />
+                      </Property>
+                      <Property value="GcCustomisationDescriptorGroupOption.xml">
+                        <Property name="DescriptorOption" value="FOR_HEAD_SPOOK" />
+                        <Property name="TextureGroups">
+                          <Property value="GcCustomisationTextureGroup.xml">
+                            <Property name="GroupID" value="" />
+                            <Property name="Title" value="CUSTOMISE_MARKINGS_L" />
+                            <Property name="TextureOptionsGroup" value="HEAD_FIEND" />
+                          </Property>
+                          <Property value="GcCustomisationTextureGroup.xml">
+                            <Property name="GroupID" value="" />
+                            <Property name="Title" value="CUSTOMISE_EYES_L" />
+                            <Property name="TextureOptionsGroup" value="PUPILSTXT" />
+                          </Property>
+                        </Property>
+                        <Property name="ReplaceBaseColours" value="False" />
+                        <Property name="ColourGroups">
+                          <Property value="GcCustomisationColourGroup.xml">
+                            <Property name="GroupID" value="" />
+                            <Property name="Title" value="CUSTOMISE_PRIMARY" />
+                            <Property name="Palette" value="TkPaletteTexture.xml">
+                              <Property name="Palette" value="Custom_Head" />
+                              <Property name="ColourAlt" value="Primary" />
+                            </Property>
+                          </Property>
+                          <Property value="GcCustomisationColourGroup.xml">
+                            <Property name="GroupID" value="" />
+                            <Property name="Title" value="CUSTOMISE_SECONDARY" />
+                            <Property name="Palette" value="TkPaletteTexture.xml">
+                              <Property name="Palette" value="Custom_Head" />
+                              <Property name="ColourAlt" value="Alternative1" />
+                            </Property>
+                          </Property>
+                          <Property value="GcCustomisationColourGroup.xml">
+                            <Property name="GroupID" value="" />
+                            <Property name="Title" value="CUSTOMISE_TERTIARY" />
+                            <Property name="Palette" value="TkPaletteTexture.xml">
+                              <Property name="Palette" value="Custom_Head" />
+                              <Property name="ColourAlt" value="Alternative2" />
+                            </Property>
+                          </Property>
+                        </Property>
+                        <Property name="ReplaceBaseBoneScales" value="False" />
+                        <Property name="BoneScales" />
+                        <Property name="InteractionCameraIndexOverride" value="-1" />
+                        <Property name="InteracttionCameraFocusJointOverride" value="" />
                       </Property>
                     </Property>
                   </Property>

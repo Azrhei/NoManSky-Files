@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcRealityManagerData">
   <Property name="HomeRealityIteration" value="0" />
   <Property name="RealityIteration" value="0" />
@@ -7608,24 +7608,42 @@
         <Property value="NMSString0x10.xml">
           <Property name="Value" value="SCRAP_WEAP" />
         </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="REPAIRKIT" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="SPOOKY_PLANT" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="SLIME_MED" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="BANNER_SPOOKY" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="BANNER_SLIMY" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="BASE_TOYJELLY" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="SPEC_SPOOKYHEAD" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="DECAL_SKULL" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="DECAL_HORROR" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="DECAL_JELLY" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="DECAL_HAZARD" />
+        </Property>
       </Property>
       <Property name="AlwaysPresentSubstances" />
       <Property name="OptionalProducts">
-        <Property value="NMSString0x10.xml">
-          <Property name="Value" value="HYDRALIC" />
-        </Property>
-        <Property value="NMSString0x10.xml">
-          <Property name="Value" value="COMPUTER" />
-        </Property>
-        <Property value="NMSString0x10.xml">
-          <Property name="Value" value="MAGNET" />
-        </Property>
-        <Property value="NMSString0x10.xml">
-          <Property name="Value" value="MIRROR" />
-        </Property>
-        <Property value="NMSString0x10.xml">
-          <Property name="Value" value="BIO" />
-        </Property>
         <Property value="NMSString0x10.xml">
           <Property name="Value" value="U_LASERX" />
         </Property>
@@ -7645,12 +7663,51 @@
           <Property name="Value" value="U_PULSEX" />
         </Property>
         <Property value="NMSString0x10.xml">
-          <Property name="Value" value="NIPNIPBUDS" />
+          <Property name="Value" value="MEDTUBE" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="HEATER" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="FOORLIGHT" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="PLANTTUBE" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="LOCKER2" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="ABAND_CRATE_M" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="ABAND_SHELF" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="ABAND_CRATE_L" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="ABAND_CRATE_XL" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="ABAND_CASE" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="FOOTLOCKER" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="ABAND_BENCH" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="PALLET" />
+        </Property>
+        <Property value="NMSString0x10.xml">
+          <Property name="Value" value="ABAND_BARREL" />
         </Property>
       </Property>
       <Property name="OptionalSubstances" />
-      <Property name="MinItemsForSale" value="4" />
-      <Property name="MaxItemsForSale" value="6" />
+      <Property name="MinItemsForSale" value="16" />
+      <Property name="MaxItemsForSale" value="16" />
       <Property name="PercentageOfItemsAreProducts" value="1" />
       <Property name="BuyPriceIncreaseRedThreshold" value="5" />
       <Property name="BuyPriceDecreaseGreenThreshold" value="-5" />

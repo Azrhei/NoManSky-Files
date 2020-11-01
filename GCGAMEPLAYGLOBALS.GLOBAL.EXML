@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcGameplayGlobals">
   <Property name="TechnologyOverrideForSmuggler" value="GcTechnologyCategory.xml">
     <Property name="TechnologyCategory" value="Maintenance" />
@@ -1640,6 +1640,7 @@
   <Property name="KeepAttackingMaxWantedLevel" value="False" />
   <Property name="UseMultiplierBonus" value="True" />
   <Property name="ShipDisplayDamageMultiplier" value="10" />
+  <Property name="IllegalProductTradingMod" value="0.2" />
   <Property name="UseTradingCostTable" value="False" />
   <Property name="ChangePricesLocally" value="False" />
   <Property name="ShowPriceMarkupsAsPercentages" value="True" />

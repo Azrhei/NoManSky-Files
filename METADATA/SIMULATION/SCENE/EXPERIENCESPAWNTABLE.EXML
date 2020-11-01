@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcExperienceSpawnTable">
   <Property name="FlybySpawns">
     <Property value="GcAIShipSpawnData.xml">
@@ -4183,7 +4183,7 @@
       <Property name="ScaleVariation" value="0.2" />
       <Property name="AppearAnim" value="" />
       <Property name="SpeedMultiplier" value="1" />
-      <Property name="HealthOverride" value="300" />
+      <Property name="HealthOverride" value="500" />
       <Property name="DamageOverride" value="FLOATER_DMG" />
       <Property name="DamageReceivedMultiplier" value="ABAND_HOSTILE" />
       <Property name="SpawnDistOverride" value="30" />
@@ -4199,8 +4199,8 @@
       <Property name="Scale" value="0.5" />
       <Property name="ScaleVariation" value="0.1" />
       <Property name="AppearAnim" value="" />
-      <Property name="SpeedMultiplier" value="1.5" />
-      <Property name="HealthOverride" value="100" />
+      <Property name="SpeedMultiplier" value="1.8" />
+      <Property name="HealthOverride" value="200" />
       <Property name="DamageOverride" value="FLOATER_DMG" />
       <Property name="DamageReceivedMultiplier" value="ABAND_HOSTILE" />
       <Property name="SpawnDistOverride" value="30" />
@@ -4217,7 +4217,7 @@
       <Property name="ScaleVariation" value="0" />
       <Property name="AppearAnim" value="" />
       <Property name="SpeedMultiplier" value="0.5" />
-      <Property name="HealthOverride" value="1450" />
+      <Property name="HealthOverride" value="2800" />
       <Property name="DamageOverride" value="MINIDRONE_DMG" />
       <Property name="DamageReceivedMultiplier" value="ABAND_HOSTILE" />
       <Property name="SpawnDistOverride" value="30" />

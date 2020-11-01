@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcCreatureGlobals">
   <Property name="Temperments">
     <Property value="NMSString0x20.xml">
@@ -778,7 +778,7 @@
   <Property name="FreighterSpawnDist" value="30" />
   <Property name="FreighterDespawnDist" value="50" />
   <Property name="ScuttlersCanAttack" value="True" />
-  <Property name="ScuttlerHealth" value="350" />
+  <Property name="ScuttlerHealth" value="600" />
   <Property name="ScuttlerInitialNoAttackTime" value="3.5" />
   <Property name="ScuttlerMoveTimeMin" value="0.8" />
   <Property name="ScuttlerMoveTimeMax" value="3" />
@@ -787,11 +787,11 @@
   <Property name="ScuttlerZigZagTimeMin" value="0.3" />
   <Property name="ScuttlerZigZagTimeMax" value="1" />
   <Property name="ScuttlerZigZagStrength" value="0.1" />
-  <Property name="ScuttlerSpitDelay" value="0.15" />
-  <Property name="ScuttlerSpitChargeTime" value="0.5" />
-  <Property name="MiniDroneEnergyRecoverRate" value="0.33" />
+  <Property name="ScuttlerSpitDelay" value="0.05" />
+  <Property name="ScuttlerSpitChargeTime" value="0.4" />
+  <Property name="MiniDroneEnergyRecoverRate" value="0.5" />
   <Property name="MiniDroneEnergyUsePerShot" value="0.33" />
-  <Property name="MiniDroneShotDelay" value="0.5" />
+  <Property name="MiniDroneShotDelay" value="0.35" />
   <Property name="MiniDroneShotMaxAngle" value="10" />
   <Property name="FiendsCanAttack" value="True" />
   <Property name="FiendOnscreenMarkers" value="True" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcProceduralProductTable">
   <Property name="Table">
     <Property name="Loot" value="GcProceduralProductData.xml">
@@ -116,7 +116,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -130,7 +130,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="100000" />
           <Property name="BaseValueMax" value="200000" />
@@ -147,7 +147,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="700000" />
@@ -164,7 +164,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="2" />
           <Property name="BasevalueMin" value="800000" />
           <Property name="BaseValueMax" value="2000000" />
@@ -321,7 +321,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -335,7 +335,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="100000" />
           <Property name="BaseValueMax" value="200000" />
@@ -352,7 +352,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="700000" />
@@ -369,7 +369,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="2" />
           <Property name="BasevalueMin" value="800000" />
           <Property name="BaseValueMax" value="2000000" />
@@ -541,7 +541,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -555,7 +555,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="100000" />
           <Property name="BaseValueMax" value="200000" />
@@ -572,7 +572,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="700000" />
@@ -589,7 +589,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="2" />
           <Property name="BasevalueMin" value="800000" />
           <Property name="BaseValueMax" value="2000000" />
@@ -761,7 +761,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -775,7 +775,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="100000" />
           <Property name="BaseValueMax" value="200000" />
@@ -792,7 +792,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="700000" />
@@ -809,7 +809,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="2" />
           <Property name="BasevalueMin" value="800000" />
           <Property name="BaseValueMax" value="2000000" />
@@ -996,7 +996,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -1010,7 +1010,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="100000" />
           <Property name="BaseValueMax" value="200000" />
@@ -1027,7 +1027,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="700000" />
@@ -1044,7 +1044,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="2" />
           <Property name="BasevalueMin" value="800000" />
           <Property name="BaseValueMax" value="2000000" />
@@ -1216,7 +1216,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -1230,7 +1230,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="100000" />
           <Property name="BaseValueMax" value="200000" />
@@ -1247,7 +1247,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="700000" />
@@ -1264,7 +1264,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="2" />
           <Property name="BasevalueMin" value="800000" />
           <Property name="BaseValueMax" value="2000000" />
@@ -1451,7 +1451,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -1465,7 +1465,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="10" />
           <Property name="BasevalueMin" value="100000" />
           <Property name="BaseValueMax" value="200000" />
@@ -1482,7 +1482,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="6" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="700000" />
@@ -1499,7 +1499,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="800000" />
           <Property name="BaseValueMax" value="1200000" />
@@ -1656,7 +1656,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -1670,7 +1670,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="10" />
           <Property name="BasevalueMin" value="100000" />
           <Property name="BaseValueMax" value="200000" />
@@ -1687,7 +1687,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="6" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="700000" />
@@ -1704,7 +1704,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="800000" />
           <Property name="BaseValueMax" value="1200000" />
@@ -1861,7 +1861,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -1875,7 +1875,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="10" />
           <Property name="BasevalueMin" value="100000" />
           <Property name="BaseValueMax" value="250000" />
@@ -1892,7 +1892,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="6" />
           <Property name="BasevalueMin" value="300000" />
           <Property name="BaseValueMax" value="600000" />
@@ -1909,7 +1909,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="900000" />
           <Property name="BaseValueMax" value="1200000" />
@@ -2066,7 +2066,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -2080,7 +2080,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="4" />
           <Property name="BasevalueMin" value="100000" />
           <Property name="BaseValueMax" value="300000" />
@@ -2097,7 +2097,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="2" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="850000" />
@@ -2114,7 +2114,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="1100000" />
           <Property name="BaseValueMax" value="2400000" />
@@ -2271,7 +2271,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -2285,7 +2285,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="20" />
           <Property name="BasevalueMin" value="50000" />
           <Property name="BaseValueMax" value="110000" />
@@ -2302,7 +2302,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="5" />
           <Property name="BasevalueMin" value="200000" />
           <Property name="BaseValueMax" value="600000" />
@@ -2319,7 +2319,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="700000" />
           <Property name="BaseValueMax" value="1700000" />
@@ -2476,7 +2476,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -2490,7 +2490,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="10" />
           <Property name="BasevalueMin" value="100000" />
           <Property name="BaseValueMax" value="250000" />
@@ -2507,7 +2507,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="6" />
           <Property name="BasevalueMin" value="300000" />
           <Property name="BaseValueMax" value="600000" />
@@ -2524,7 +2524,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="900000" />
           <Property name="BaseValueMax" value="1200000" />
@@ -2681,7 +2681,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -2695,7 +2695,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="20" />
           <Property name="BasevalueMin" value="50000" />
           <Property name="BaseValueMax" value="110000" />
@@ -2712,7 +2712,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="5" />
           <Property name="BasevalueMin" value="200000" />
           <Property name="BaseValueMax" value="600000" />
@@ -2729,7 +2729,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="700000" />
           <Property name="BaseValueMax" value="1200000" />
@@ -2855,7 +2855,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -2869,7 +2869,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -2886,7 +2886,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -2903,7 +2903,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3029,7 +3029,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -3043,7 +3043,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3060,7 +3060,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3077,7 +3077,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3203,7 +3203,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -3217,7 +3217,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3234,7 +3234,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3251,7 +3251,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3377,7 +3377,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="True" />
@@ -3391,7 +3391,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3408,7 +3408,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3425,7 +3425,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3551,7 +3551,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="True" />
@@ -3565,7 +3565,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3582,7 +3582,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3599,7 +3599,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3725,7 +3725,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="True" />
@@ -3739,7 +3739,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3756,7 +3756,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3773,7 +3773,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3899,7 +3899,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="True" />
@@ -3913,7 +3913,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3930,7 +3930,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -3947,7 +3947,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -4073,7 +4073,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="True" />
@@ -4087,7 +4087,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -4104,7 +4104,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -4121,7 +4121,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -4247,7 +4247,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="True" />
@@ -4261,7 +4261,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -4278,7 +4278,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -4295,7 +4295,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -4421,7 +4421,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="True" />
@@ -4435,7 +4435,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -4452,7 +4452,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -4469,7 +4469,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="500" />
           <Property name="BaseValueMax" value="1000" />
@@ -4626,7 +4626,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -4640,7 +4640,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="250" />
           <Property name="BaseValueMax" value="1250" />
@@ -4657,7 +4657,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="700000" />
@@ -4674,7 +4674,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="800000" />
           <Property name="BaseValueMax" value="2000000" />
@@ -4831,7 +4831,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -4845,7 +4845,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="50" />
           <Property name="BaseValueMax" value="400" />
@@ -4862,7 +4862,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="700000" />
@@ -4879,7 +4879,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="800000" />
           <Property name="BaseValueMax" value="2000000" />
@@ -5005,7 +5005,7 @@
         <Property name="NormalisedValueOnWorld" value="0" />
         <Property name="NormalisedValueOffWorld" value="0" />
         <Property name="TradeCategory" value="GcTradeCategory.xml">
-          <Property name="TradingClass" value="None" />
+          <Property name="TradeCategory" value="None" />
         </Property>
         <Property name="WikiCategory" value="NotEnabled" />
         <Property name="IsCraftable" value="False" />
@@ -5019,7 +5019,7 @@
         <Property name="GiveRewardOnSpecialPurchase" value="" />
       </Property>
       <Property name="ProceduralData">
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Common" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="1" />
           <Property name="BasevalueMin" value="700" />
           <Property name="BaseValueMax" value="8000" />
@@ -5036,7 +5036,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Uncommon" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="400000" />
           <Property name="BaseValueMax" value="700000" />
@@ -5053,7 +5053,7 @@
             <Property name="Filename" value="" />
           </Property>
         </Property>
-        <Property value="GcProductProceduralOnlyData.xml">
+        <Property name="Rare" value="GcProductProceduralOnlyData.xml">
           <Property name="DropWeight" value="0" />
           <Property name="BasevalueMin" value="800000" />
           <Property name="BaseValueMax" value="2000000" />

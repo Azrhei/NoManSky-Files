@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcProjectileDataTable">
   <Property name="Table">
     <Property value="GcProjectileData.xml">
@@ -789,7 +789,7 @@
       <Property name="BounceDamping" value="0.8" />
       <Property name="BounceFinalStopTime" value="0" />
       <Property name="HitOnBounce" value="True" />
-      <Property name="PlayerDamage" value="ROBOTGUNDMG" />
+      <Property name="PlayerDamage" value="MINIDRONE_DMG" />
       <Property name="UseCustomBulletData" value="False" />
       <Property name="CustomBulletData" value="GcProjectileLineData.xml">
         <Property name="BulletLength" value="0.1" />

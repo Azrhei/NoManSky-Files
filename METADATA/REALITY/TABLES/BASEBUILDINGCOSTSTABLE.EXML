@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcBaseBuildingCostsTable">
   <Property name="ObjectCosts">
     <Property value="GcBaseBuildingEntryCosts.xml">
@@ -4694,6 +4694,83 @@
       <Property name="Active1AverageFrameTimeCost" value="1" />
       <Property name="ActiveTotalNodes" value="15" />
       <Property name="ActivePhysicsComponents" value="1" />
+      <Property name="Inactive0AverageFrameTimeCost" value="1" />
+      <Property name="Inactive1AverageFrameTimeCost" value="1" />
+      <Property name="InactiveTotalNodes" value="1000" />
+      <Property name="InactivePhysicsComponents" value="100" />
+    </Property>
+    <Property value="GcBaseBuildingEntryCosts.xml">
+      <Property name="ID" value="BASE_TOYJELLY" />
+      <Property name="Active0AverageFrameTimeCost" value="0.0241655875" />
+      <Property name="Active1AverageFrameTimeCost" value="1" />
+      <Property name="ActiveTotalNodes" value="32" />
+      <Property name="ActivePhysicsComponents" value="1" />
+      <Property name="Inactive0AverageFrameTimeCost" value="0.00538269943" />
+      <Property name="Inactive1AverageFrameTimeCost" value="1" />
+      <Property name="InactiveTotalNodes" value="7" />
+      <Property name="InactivePhysicsComponents" value="0" />
+    </Property>
+    <Property value="GcBaseBuildingEntryCosts.xml">
+      <Property name="ID" value="SLIME_MED" />
+      <Property name="Active0AverageFrameTimeCost" value="0.0048035346" />
+      <Property name="Active1AverageFrameTimeCost" value="0.0051321364" />
+      <Property name="ActiveTotalNodes" value="14" />
+      <Property name="ActivePhysicsComponents" value="1" />
+      <Property name="Inactive0AverageFrameTimeCost" value="0.00242806971" />
+      <Property name="Inactive1AverageFrameTimeCost" value="0.03234402" />
+      <Property name="InactiveTotalNodes" value="2" />
+      <Property name="InactivePhysicsComponents" value="0" />
+    </Property>
+    <Property value="GcBaseBuildingEntryCosts.xml">
+      <Property name="ID" value="SPOOKY_PLANT" />
+      <Property name="Active0AverageFrameTimeCost" value="0.00282187015" />
+      <Property name="Active1AverageFrameTimeCost" value="0.00262014358" />
+      <Property name="ActiveTotalNodes" value="6" />
+      <Property name="ActivePhysicsComponents" value="1" />
+      <Property name="Inactive0AverageFrameTimeCost" value="0.00165093737" />
+      <Property name="Inactive1AverageFrameTimeCost" value="0.00147010549" />
+      <Property name="InactiveTotalNodes" value="2" />
+      <Property name="InactivePhysicsComponents" value="0" />
+    </Property>
+    <Property value="GcBaseBuildingEntryCosts.xml">
+      <Property name="ID" value="DECAL_HAZARD" />
+      <Property name="Active0AverageFrameTimeCost" value="0.001" />
+      <Property name="Active1AverageFrameTimeCost" value="1" />
+      <Property name="ActiveTotalNodes" value="2" />
+      <Property name="ActivePhysicsComponents" value="0" />
+      <Property name="Inactive0AverageFrameTimeCost" value="1" />
+      <Property name="Inactive1AverageFrameTimeCost" value="1" />
+      <Property name="InactiveTotalNodes" value="1000" />
+      <Property name="InactivePhysicsComponents" value="100" />
+    </Property>
+    <Property value="GcBaseBuildingEntryCosts.xml">
+      <Property name="ID" value="DECAL_SKULL" />
+      <Property name="Active0AverageFrameTimeCost" value="0.001" />
+      <Property name="Active1AverageFrameTimeCost" value="1" />
+      <Property name="ActiveTotalNodes" value="2" />
+      <Property name="ActivePhysicsComponents" value="0" />
+      <Property name="Inactive0AverageFrameTimeCost" value="1" />
+      <Property name="Inactive1AverageFrameTimeCost" value="1" />
+      <Property name="InactiveTotalNodes" value="1000" />
+      <Property name="InactivePhysicsComponents" value="100" />
+    </Property>
+    <Property value="GcBaseBuildingEntryCosts.xml">
+      <Property name="ID" value="DECAL_HORROR" />
+      <Property name="Active0AverageFrameTimeCost" value="0.001" />
+      <Property name="Active1AverageFrameTimeCost" value="1" />
+      <Property name="ActiveTotalNodes" value="2" />
+      <Property name="ActivePhysicsComponents" value="0" />
+      <Property name="Inactive0AverageFrameTimeCost" value="1" />
+      <Property name="Inactive1AverageFrameTimeCost" value="1" />
+      <Property name="InactiveTotalNodes" value="1000" />
+      <Property name="InactivePhysicsComponents" value="100" />
+    </Property>
+    <Property value="GcBaseBuildingEntryCosts.xml">
+      <Property name="ID" value="DECAL_JELLY" />
+      <Property name="Active0AverageFrameTimeCost" value="0.001" />
+      <Property name="Active1AverageFrameTimeCost" value="1" />
+      <Property name="ActiveTotalNodes" value="2" />
+      <Property name="ActivePhysicsComponents" value="0" />
       <Property name="Inactive0AverageFrameTimeCost" value="1" />
       <Property name="Inactive1AverageFrameTimeCost" value="1" />
       <Property name="InactiveTotalNodes" value="1000" />

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcHUDLayerData">
   <Property name="Data" value="GcHUDComponent.xml">
-    <Property name="Id" value="" />
+    <Property name="ID" value="" />
     <Property name="PosX" value="0" />
     <Property name="PosY" value="0" />
     <Property name="Width" value="50" />
@@ -12,7 +12,7 @@
   <Property name="Children">
     <Property value="GcHUDLayerData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="" />
+        <Property name="ID" value="" />
         <Property name="PosX" value="980" />
         <Property name="PosY" value="0" />
         <Property name="Width" value="50" />
@@ -22,7 +22,7 @@
       <Property name="Children">
         <Property value="GcHUDImageData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="" />
+            <Property name="ID" value="" />
             <Property name="PosX" value="46" />
             <Property name="PosY" value="95" />
             <Property name="Width" value="180" />
@@ -39,7 +39,7 @@
         </Property>
         <Property value="GcHUDLayerData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="AMMO_LAYER" />
+            <Property name="ID" value="AMMO_LAYER" />
             <Property name="PosX" value="60" />
             <Property name="PosY" value="58" />
             <Property name="Width" value="50" />
@@ -49,7 +49,7 @@
           <Property name="Children">
             <Property value="GcHUDTextData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="" />
+                <Property name="ID" value="" />
                 <Property name="PosX" value="0" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="50" />
@@ -74,7 +74,7 @@
         </Property>
         <Property value="GcHUDLayerData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="GRENADES_LAYER" />
+            <Property name="ID" value="GRENADES_LAYER" />
             <Property name="PosX" value="160" />
             <Property name="PosY" value="58" />
             <Property name="Width" value="50" />
@@ -84,7 +84,7 @@
           <Property name="Children">
             <Property value="GcHUDTextData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="GRENADE_COUNT" />
+                <Property name="ID" value="GRENADE_COUNT" />
                 <Property name="PosX" value="32" />
                 <Property name="PosY" value="4" />
                 <Property name="Width" value="50" />
@@ -107,7 +107,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="GRENADE" />
+                <Property name="ID" value="GRENADE" />
                 <Property name="PosX" value="0" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -126,7 +126,7 @@
         </Property>
         <Property value="GcHUDTextData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="WEAPON_TITLE" />
+            <Property name="ID" value="WEAPON_TITLE" />
             <Property name="PosX" value="80" />
             <Property name="PosY" value="35" />
             <Property name="Width" value="50" />
@@ -149,7 +149,7 @@
         </Property>
         <Property value="GcHUDImageData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="" />
+            <Property name="ID" value="" />
             <Property name="PosX" value="0" />
             <Property name="PosY" value="0" />
             <Property name="Width" value="300" />

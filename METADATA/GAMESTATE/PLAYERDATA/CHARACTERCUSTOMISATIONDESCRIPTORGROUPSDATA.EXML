@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcCustomisationDescriptorGroups">
   <Property name="DescriptorGroups">
     <Property value="GcCustomisationDescriptorGroup.xml">
@@ -4319,6 +4319,26 @@
       <Property name="SuffixInclusionList" />
       <Property name="LinkedSpecialID" value="NEW_BACKPACK" />
       <Property name="Tip" value="UI_TIP_BACKPACK_RETRO" />
+    </Property>
+    <Property value="GcCustomisationDescriptorGroup.xml">
+      <Property name="GroupID" value="FOR_HEAD_SPOOK" />
+      <Property name="Title" value="" />
+      <Property name="Image" value="" />
+      <Property name="Descriptors">
+        <Property value="NMSString0x20.xml">
+          <Property name="Value" value="_Head_ForSpook" />
+        </Property>
+      </Property>
+      <Property name="SuffixInclusionList">
+        <Property value="NMSString0x20.xml">
+          <Property name="Value" value="F" />
+        </Property>
+        <Property value="NMSString0x20.xml">
+          <Property name="Value" value="R" />
+        </Property>
+      </Property>
+      <Property name="LinkedSpecialID" value="SPEC_SPOOKYHEAD" />
+      <Property name="Tip" value="UI_TIP_SPOOKY_HEAD" />
     </Property>
   </Property>
 </Data>

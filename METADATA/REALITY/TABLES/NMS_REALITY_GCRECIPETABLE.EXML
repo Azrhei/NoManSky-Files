@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcRecipeTable">
   <Property name="Table">
     <Property value="GcRefinerRecipe.xml">
@@ -34607,6 +34607,28 @@
             <Property name="InventoryType" value="Substance" />
           </Property>
           <Property name="Amount" value="40" />
+        </Property>
+      </Property>
+    </Property>
+    <Property value="GcRefinerRecipe.xml">
+      <Property name="Id" value="REFINERECIPE_324" />
+      <Property name="Name" value="RECIPE_FISHCORE" />
+      <Property name="TimeToMake" value="90" />
+      <Property name="Cooking" value="False" />
+      <Property name="Result" value="GcRefinerRecipeElement.xml">
+        <Property name="Id" value="TECHFRAG" />
+        <Property name="Type" value="GcInventoryType.xml">
+          <Property name="InventoryType" value="Substance" />
+        </Property>
+        <Property name="Amount" value="2" />
+      </Property>
+      <Property name="Ingredients">
+        <Property value="GcRefinerRecipeElement.xml">
+          <Property name="Id" value="AF_METAL" />
+          <Property name="Type" value="GcInventoryType.xml">
+            <Property name="InventoryType" value="Substance" />
+          </Property>
+          <Property name="Amount" value="1" />
         </Property>
       </Property>
     </Property>

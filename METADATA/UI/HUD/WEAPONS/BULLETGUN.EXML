@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcHUDLayerData">
   <Property name="Data" value="GcHUDComponent.xml">
-    <Property name="Id" value="" />
+    <Property name="ID" value="" />
     <Property name="PosX" value="0" />
     <Property name="PosY" value="0" />
     <Property name="Width" value="50" />
@@ -12,7 +12,7 @@
   <Property name="Children">
     <Property value="GcHUDLayerData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="" />
+        <Property name="ID" value="" />
         <Property name="PosX" value="915" />
         <Property name="PosY" value="0" />
         <Property name="Width" value="50" />
@@ -22,7 +22,7 @@
       <Property name="Children">
         <Property value="GcHUDLayerData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="AMMO_LAYER" />
+            <Property name="ID" value="AMMO_LAYER" />
             <Property name="PosX" value="121" />
             <Property name="PosY" value="59" />
             <Property name="Width" value="50" />
@@ -32,7 +32,7 @@
           <Property name="Children">
             <Property value="GcHUDTextData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="AMMO_COUNT" />
+                <Property name="ID" value="AMMO_COUNT" />
                 <Property name="PosX" value="26" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="50" />
@@ -55,7 +55,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="" />
+                <Property name="ID" value="" />
                 <Property name="PosX" value="2" />
                 <Property name="PosY" value="-3" />
                 <Property name="Width" value="23" />
@@ -72,7 +72,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="" />
+                <Property name="ID" value="" />
                 <Property name="PosX" value="10" />
                 <Property name="PosY" value="-3" />
                 <Property name="Width" value="23" />
@@ -91,7 +91,7 @@
         </Property>
         <Property value="GcHUDLayerData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="GRENADES_LAYER" />
+            <Property name="ID" value="GRENADES_LAYER" />
             <Property name="PosX" value="283" />
             <Property name="PosY" value="54" />
             <Property name="Width" value="50" />
@@ -101,7 +101,7 @@
           <Property name="Children">
             <Property value="GcHUDTextData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="GRENADE_COUNT" />
+                <Property name="ID" value="GRENADE_COUNT" />
                 <Property name="PosX" value="-9" />
                 <Property name="PosY" value="4" />
                 <Property name="Width" value="50" />
@@ -124,7 +124,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="GRENADE" />
+                <Property name="ID" value="GRENADE" />
                 <Property name="PosX" value="-31" />
                 <Property name="PosY" value="2" />
                 <Property name="Width" value="22" />
@@ -143,7 +143,7 @@
         </Property>
         <Property value="GcHUDLayerData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="BULLETS_LAYER" />
+            <Property name="ID" value="BULLETS_LAYER" />
             <Property name="PosX" value="1000" />
             <Property name="PosY" value="85" />
             <Property name="Width" value="50" />
@@ -153,7 +153,7 @@
           <Property name="Children">
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="0" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -170,7 +170,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="10" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -187,7 +187,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="20" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -204,7 +204,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="30" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -221,7 +221,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="40" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -238,7 +238,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="50" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -255,7 +255,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="60" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -272,7 +272,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="70" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -289,7 +289,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="80" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -306,7 +306,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="90" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -323,7 +323,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="100" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -340,7 +340,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="110" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -357,7 +357,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="120" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -374,7 +374,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="130" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -391,7 +391,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="140" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -408,7 +408,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="150" />
                 <Property name="PosY" value="0" />
                 <Property name="Width" value="32" />
@@ -425,7 +425,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="0" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -442,7 +442,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="10" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -459,7 +459,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="20" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -476,7 +476,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="30" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -493,7 +493,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="40" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -510,7 +510,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="50" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -527,7 +527,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="60" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -544,7 +544,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="70" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -561,7 +561,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="80" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -578,7 +578,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="90" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -595,7 +595,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="100" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -612,7 +612,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="110" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -629,7 +629,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="120" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -646,7 +646,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="130" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -663,7 +663,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="140" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -680,7 +680,7 @@
             </Property>
             <Property value="GcHUDImageData.xml">
               <Property name="Data" value="GcHUDComponent.xml">
-                <Property name="Id" value="BULLET" />
+                <Property name="ID" value="BULLET" />
                 <Property name="PosX" value="150" />
                 <Property name="PosY" value="20" />
                 <Property name="Width" value="32" />
@@ -699,7 +699,7 @@
         </Property>
         <Property value="GcHUDTextData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="WEAPON_TITLE" />
+            <Property name="ID" value="WEAPON_TITLE" />
             <Property name="PosX" value="132" />
             <Property name="PosY" value="39" />
             <Property name="Width" value="50" />
@@ -722,7 +722,7 @@
         </Property>
         <Property value="GcHUDImageData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="" />
+            <Property name="ID" value="" />
             <Property name="PosX" value="0" />
             <Property name="PosY" value="0" />
             <Property name="Width" value="368" />

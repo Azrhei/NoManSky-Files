@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcRewardTable">
   <Property name="GenericTable">
     <Property value="GcGenericRewardTableEntry.xml">
@@ -303,6 +303,24 @@
             </Property>
             <Property name="LabelID" value="" />
           </Property>
+          <Property value="GcRewardTableItem.xml">
+            <Property name="PercentageChance" value="20" />
+            <Property name="Reward" value="GcRewardSpecificSubstance.xml">
+              <Property name="Default" value="GcDefaultMissionProduct.xml">
+                <Property name="Product" value="GcProductTableEnum.xml">
+                  <Property name="Product" value="None" />
+                </Property>
+              </Property>
+              <Property name="Id" value="AF_METAL" />
+              <Property name="AmountMin" value="10" />
+              <Property name="AmountMax" value="30" />
+              <Property name="HardModeMultiplier" value="1" />
+              <Property name="DisableMultiplier" value="False" />
+              <Property name="RewardAsBlobs" value="False" />
+              <Property name="UseFuelMultiplier" value="False" />
+            </Property>
+            <Property name="LabelID" value="" />
+          </Property>
         </Property>
       </Property>
     </Property>
@@ -368,6 +386,35 @@
               <Property name="Currency" value="GcCurrency.xml">
                 <Property name="Currency" value="Nanites" />
               </Property>
+            </Property>
+            <Property name="LabelID" value="" />
+          </Property>
+          <Property value="GcRewardTableItem.xml">
+            <Property name="PercentageChance" value="10" />
+            <Property name="Reward" value="GcRewardMoney.xml">
+              <Property name="AmountMin" value="15" />
+              <Property name="AmountMax" value="15" />
+              <Property name="Currency" value="GcCurrency.xml">
+                <Property name="Currency" value="Specials" />
+              </Property>
+            </Property>
+            <Property name="LabelID" value="" />
+          </Property>
+          <Property value="GcRewardTableItem.xml">
+            <Property name="PercentageChance" value="40" />
+            <Property name="Reward" value="GcRewardSpecificSubstance.xml">
+              <Property name="Default" value="GcDefaultMissionProduct.xml">
+                <Property name="Product" value="GcProductTableEnum.xml">
+                  <Property name="Product" value="None" />
+                </Property>
+              </Property>
+              <Property name="Id" value="AF_METAL" />
+              <Property name="AmountMin" value="10" />
+              <Property name="AmountMax" value="30" />
+              <Property name="HardModeMultiplier" value="1" />
+              <Property name="DisableMultiplier" value="False" />
+              <Property name="RewardAsBlobs" value="False" />
+              <Property name="UseFuelMultiplier" value="False" />
             </Property>
             <Property name="LabelID" value="" />
           </Property>
@@ -723,6 +770,24 @@
               <Property name="AmountMin" value="1" />
               <Property name="AmountMax" value="3" />
               <Property name="ForceSpecialMessage" value="False" />
+            </Property>
+            <Property name="LabelID" value="" />
+          </Property>
+          <Property value="GcRewardTableItem.xml">
+            <Property name="PercentageChance" value="20" />
+            <Property name="Reward" value="GcRewardSpecificSubstance.xml">
+              <Property name="Default" value="GcDefaultMissionProduct.xml">
+                <Property name="Product" value="GcProductTableEnum.xml">
+                  <Property name="Product" value="None" />
+                </Property>
+              </Property>
+              <Property name="Id" value="AF_METAL" />
+              <Property name="AmountMin" value="10" />
+              <Property name="AmountMax" value="25" />
+              <Property name="HardModeMultiplier" value="1" />
+              <Property name="DisableMultiplier" value="False" />
+              <Property name="RewardAsBlobs" value="False" />
+              <Property name="UseFuelMultiplier" value="False" />
             </Property>
             <Property name="LabelID" value="" />
           </Property>
@@ -10137,12 +10202,19 @@
         <Property name="List">
           <Property value="GcRewardTableItem.xml">
             <Property name="PercentageChance" value="100" />
-            <Property name="Reward" value="GcRewardMoney.xml">
-              <Property name="AmountMin" value="200" />
-              <Property name="AmountMax" value="400" />
-              <Property name="Currency" value="GcCurrency.xml">
-                <Property name="Currency" value="Nanites" />
+            <Property name="Reward" value="GcRewardSpecificSubstance.xml">
+              <Property name="Default" value="GcDefaultMissionProduct.xml">
+                <Property name="Product" value="GcProductTableEnum.xml">
+                  <Property name="Product" value="None" />
+                </Property>
               </Property>
+              <Property name="Id" value="AF_METAL" />
+              <Property name="AmountMin" value="200" />
+              <Property name="AmountMax" value="200" />
+              <Property name="HardModeMultiplier" value="1" />
+              <Property name="DisableMultiplier" value="False" />
+              <Property name="RewardAsBlobs" value="False" />
+              <Property name="UseFuelMultiplier" value="False" />
             </Property>
             <Property name="LabelID" value="" />
           </Property>
@@ -10177,12 +10249,27 @@
         <Property name="List">
           <Property value="GcRewardTableItem.xml">
             <Property name="PercentageChance" value="100" />
-            <Property name="Reward" value="GcRewardMoney.xml">
-              <Property name="AmountMin" value="400" />
-              <Property name="AmountMax" value="600" />
-              <Property name="Currency" value="GcCurrency.xml">
-                <Property name="Currency" value="Nanites" />
+            <Property name="Reward" value="GcRewardSpecificSubstance.xml">
+              <Property name="Default" value="GcDefaultMissionProduct.xml">
+                <Property name="Product" value="GcProductTableEnum.xml">
+                  <Property name="Product" value="None" />
+                </Property>
               </Property>
+              <Property name="Id" value="AF_METAL" />
+              <Property name="AmountMin" value="300" />
+              <Property name="AmountMax" value="300" />
+              <Property name="HardModeMultiplier" value="1" />
+              <Property name="DisableMultiplier" value="False" />
+              <Property name="RewardAsBlobs" value="False" />
+              <Property name="UseFuelMultiplier" value="False" />
+            </Property>
+            <Property name="LabelID" value="" />
+          </Property>
+          <Property value="GcRewardTableItem.xml">
+            <Property name="PercentageChance" value="100" />
+            <Property name="Reward" value="GcRewardSpecificProductRecipe.xml">
+              <Property name="Id" value="TITLE_SPOOKY2" />
+              <Property name="Slient" value="True" />
             </Property>
             <Property name="LabelID" value="" />
           </Property>
@@ -10203,6 +10290,14 @@
               </Property>
               <Property name="AmountMin" value="3" />
               <Property name="AmountMax" value="3" />
+            </Property>
+            <Property name="LabelID" value="" />
+          </Property>
+          <Property value="GcRewardTableItem.xml">
+            <Property name="PercentageChance" value="100" />
+            <Property name="Reward" value="GcRewardSpecificProductRecipe.xml">
+              <Property name="Id" value="TITLE_SPOOKY1" />
+              <Property name="Slient" value="True" />
             </Property>
             <Property name="LabelID" value="" />
           </Property>
@@ -10237,6 +10332,17 @@
               <Property name="AmountMax" value="30" />
               <Property name="Currency" value="GcCurrency.xml">
                 <Property name="Currency" value="Nanites" />
+              </Property>
+            </Property>
+            <Property name="LabelID" value="" />
+          </Property>
+          <Property value="GcRewardTableItem.xml">
+            <Property name="PercentageChance" value="10" />
+            <Property name="Reward" value="GcRewardMoney.xml">
+              <Property name="AmountMin" value="20" />
+              <Property name="AmountMax" value="20" />
+              <Property name="Currency" value="GcCurrency.xml">
+                <Property name="Currency" value="Specials" />
               </Property>
             </Property>
             <Property name="LabelID" value="" />

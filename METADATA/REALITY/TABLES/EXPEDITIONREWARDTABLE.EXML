@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcExpeditionRewardTable">
   <Property name="Table">
     <Property value="GcGenericRewardTableEntry.xml">
@@ -1126,7 +1126,7 @@
               <Property name="Default" value="GcDefaultMissionProductEnum.xml">
                 <Property name="DefaultProductType" value="None" />
               </Property>
-              <Property name="Id" value="FUELPROD3" />
+              <Property name="Id" value="TRA_MINERALS2" />
               <Property name="AmountMin" value="10" />
               <Property name="AmountMax" value="20" />
               <Property name="ForceSpecialMessage" value="False" />
@@ -1139,7 +1139,7 @@
               <Property name="Default" value="GcDefaultMissionProductEnum.xml">
                 <Property name="DefaultProductType" value="None" />
               </Property>
-              <Property name="Id" value="LANDPROD3" />
+              <Property name="Id" value="TRA_MINERALS3" />
               <Property name="AmountMin" value="10" />
               <Property name="AmountMax" value="20" />
               <Property name="ForceSpecialMessage" value="False" />
@@ -1152,9 +1152,9 @@
               <Property name="Default" value="GcDefaultMissionProductEnum.xml">
                 <Property name="DefaultProductType" value="None" />
               </Property>
-              <Property name="Id" value="CAVEPROD3" />
-              <Property name="AmountMin" value="10" />
-              <Property name="AmountMax" value="20" />
+              <Property name="Id" value="REACTION1" />
+              <Property name="AmountMin" value="1" />
+              <Property name="AmountMax" value="3" />
               <Property name="ForceSpecialMessage" value="False" />
             </Property>
             <Property name="LabelID" value="" />
@@ -1165,9 +1165,9 @@
               <Property name="Default" value="GcDefaultMissionProductEnum.xml">
                 <Property name="DefaultProductType" value="None" />
               </Property>
-              <Property name="Id" value="WATERPROD3" />
-              <Property name="AmountMin" value="10" />
-              <Property name="AmountMax" value="20" />
+              <Property name="Id" value="REACTION2" />
+              <Property name="AmountMin" value="1" />
+              <Property name="AmountMax" value="3" />
               <Property name="ForceSpecialMessage" value="False" />
             </Property>
             <Property name="LabelID" value="" />
@@ -1178,9 +1178,9 @@
               <Property name="Default" value="GcDefaultMissionProductEnum.xml">
                 <Property name="DefaultProductType" value="None" />
               </Property>
-              <Property name="Id" value="CATAPROD3" />
-              <Property name="AmountMin" value="10" />
-              <Property name="AmountMax" value="20" />
+              <Property name="Id" value="REACTION3" />
+              <Property name="AmountMin" value="1" />
+              <Property name="AmountMax" value="3" />
               <Property name="ForceSpecialMessage" value="False" />
             </Property>
             <Property name="LabelID" value="" />
@@ -1191,9 +1191,9 @@
               <Property name="Default" value="GcDefaultMissionProductEnum.xml">
                 <Property name="DefaultProductType" value="None" />
               </Property>
-              <Property name="Id" value="OXYPROD3" />
-              <Property name="AmountMin" value="10" />
-              <Property name="AmountMax" value="20" />
+              <Property name="Id" value="ALLOY6" />
+              <Property name="AmountMin" value="2" />
+              <Property name="AmountMax" value="6" />
               <Property name="ForceSpecialMessage" value="False" />
             </Property>
             <Property name="LabelID" value="" />
@@ -2195,7 +2195,7 @@
               <Property name="Default" value="GcDefaultMissionProductEnum.xml">
                 <Property name="DefaultProductType" value="None" />
               </Property>
-              <Property name="Id" value="FUELPROD3" />
+              <Property name="Id" value="TRA_MINERALS2" />
               <Property name="AmountMin" value="1" />
               <Property name="AmountMax" value="1" />
               <Property name="ForceSpecialMessage" value="False" />
@@ -2208,7 +2208,7 @@
               <Property name="Default" value="GcDefaultMissionProductEnum.xml">
                 <Property name="DefaultProductType" value="None" />
               </Property>
-              <Property name="Id" value="LANDPROD3" />
+              <Property name="Id" value="TRA_MINERALS3" />
               <Property name="AmountMin" value="1" />
               <Property name="AmountMax" value="1" />
               <Property name="ForceSpecialMessage" value="False" />
@@ -2221,7 +2221,7 @@
               <Property name="Default" value="GcDefaultMissionProductEnum.xml">
                 <Property name="DefaultProductType" value="None" />
               </Property>
-              <Property name="Id" value="CAVEPROD3" />
+              <Property name="Id" value="CLAMPEARL" />
               <Property name="AmountMin" value="1" />
               <Property name="AmountMax" value="1" />
               <Property name="ForceSpecialMessage" value="False" />
@@ -2234,7 +2234,7 @@
               <Property name="Default" value="GcDefaultMissionProductEnum.xml">
                 <Property name="DefaultProductType" value="None" />
               </Property>
-              <Property name="Id" value="WATERPROD3" />
+              <Property name="Id" value="VENTGEM" />
               <Property name="AmountMin" value="1" />
               <Property name="AmountMax" value="1" />
               <Property name="ForceSpecialMessage" value="False" />
@@ -2247,20 +2247,7 @@
               <Property name="Default" value="GcDefaultMissionProductEnum.xml">
                 <Property name="DefaultProductType" value="None" />
               </Property>
-              <Property name="Id" value="CATAPROD3" />
-              <Property name="AmountMin" value="1" />
-              <Property name="AmountMax" value="1" />
-              <Property name="ForceSpecialMessage" value="False" />
-            </Property>
-            <Property name="LabelID" value="" />
-          </Property>
-          <Property value="GcRewardTableItem.xml">
-            <Property name="PercentageChance" value="100" />
-            <Property name="Reward" value="GcRewardSpecificProduct.xml">
-              <Property name="Default" value="GcDefaultMissionProductEnum.xml">
-                <Property name="DefaultProductType" value="None" />
-              </Property>
-              <Property name="Id" value="OXYPROD3" />
+              <Property name="Id" value="ALBUMENPEARL" />
               <Property name="AmountMin" value="1" />
               <Property name="AmountMax" value="1" />
               <Property name="ForceSpecialMessage" value="False" />

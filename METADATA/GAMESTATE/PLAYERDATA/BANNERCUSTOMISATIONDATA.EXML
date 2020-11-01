@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcCustomisationBannerGroup">
   <Property name="BannerImages">
     <Property value="GcCustomisationBannerImageData.xml">
@@ -182,6 +182,20 @@
         <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/BANNERICONS/BANNERICONWIDE.GEKCHEF.DDS" />
       </Property>
       <Property name="LinkedSpecialID" value="BANNER_CHEF" />
+      <Property name="WideImage" value="True" />
+    </Property>
+    <Property value="GcCustomisationBannerImageData.xml">
+      <Property name="BannerImage" value="TkTextureResource.xml">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/BANNERICONS/BANNERICONWIDE.SPOOKY.DDS" />
+      </Property>
+      <Property name="LinkedSpecialID" value="BANNER_SPOOKY" />
+      <Property name="WideImage" value="True" />
+    </Property>
+    <Property value="GcCustomisationBannerImageData.xml">
+      <Property name="BannerImage" value="TkTextureResource.xml">
+        <Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/BANNERICONS/BANNERICONWIDE.SLIMY.DDS" />
+      </Property>
+      <Property name="LinkedSpecialID" value="BANNER_SLIMY" />
       <Property name="WideImage" value="True" />
     </Property>
   </Property>

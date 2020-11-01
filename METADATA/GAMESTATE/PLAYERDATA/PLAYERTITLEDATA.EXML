@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcPlayerTitleData">
   <Property name="Titles">
     <Property value="GcPlayerTitle.xml">
@@ -3841,6 +3841,46 @@
         <Property name="AlienRace" value="None" />
       </Property>
       <Property name="UnlockableInCreativeMode" value="False" />
+    </Property>
+    <Property value="GcPlayerTitle.xml">
+      <Property name="ID" value="T_SPOOKY1" />
+      <Property name="Title" value="UI_PLAYER_TITLE_SPOOKY" />
+      <Property name="UnlockDescription" value="UI_PLAYER_TDESC_SPOOKY" />
+      <Property name="AlreadyUnlockedDescription" value="UI_TITLE_OWNED_SPOOKY" />
+      <Property name="RevealedBy" value="" />
+      <Property name="UnlockedByProductRecipe" value="TITLE_SPOOKY1" />
+      <Property name="UnlockedByMission" value="" />
+      <Property name="UnlockedByTrophy" value="" />
+      <Property name="UnlockedByStat" value="" />
+      <Property name="UnlockedByStatValue" value="0" />
+      <Property name="UnlockedByInteraction" value="GcInteractionType.xml">
+        <Property name="InteractionType" value="None" />
+      </Property>
+      <Property name="UnlockedByInteractionIndex" value="0" />
+      <Property name="UnlockedByInteractionRace" value="GcAlienRace.xml">
+        <Property name="AlienRace" value="None" />
+      </Property>
+      <Property name="UnlockableInCreativeMode" value="True" />
+    </Property>
+    <Property value="GcPlayerTitle.xml">
+      <Property name="ID" value="T_SPOOKY2" />
+      <Property name="Title" value="UI_PLAYER_TITLE_SPOOKY2" />
+      <Property name="UnlockDescription" value="UI_PLAYER_TDESC_SPOOKY" />
+      <Property name="AlreadyUnlockedDescription" value="UI_TITLE_OWNED_SPOOKY" />
+      <Property name="RevealedBy" value="" />
+      <Property name="UnlockedByProductRecipe" value="TITLE_SPOOKY2" />
+      <Property name="UnlockedByMission" value="" />
+      <Property name="UnlockedByTrophy" value="" />
+      <Property name="UnlockedByStat" value="" />
+      <Property name="UnlockedByStatValue" value="0" />
+      <Property name="UnlockedByInteraction" value="GcInteractionType.xml">
+        <Property name="InteractionType" value="None" />
+      </Property>
+      <Property name="UnlockedByInteractionIndex" value="0" />
+      <Property name="UnlockedByInteractionRace" value="GcAlienRace.xml">
+        <Property name="AlienRace" value="None" />
+      </Property>
+      <Property name="UnlockableInCreativeMode" value="True" />
     </Property>
   </Property>
 </Data>

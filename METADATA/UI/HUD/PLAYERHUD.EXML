@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcHUDLayerData">
   <Property name="Data" value="GcHUDComponent.xml">
-    <Property name="Id" value="" />
+    <Property name="ID" value="" />
     <Property name="PosX" value="0" />
     <Property name="PosY" value="0" />
     <Property name="Width" value="50" />
@@ -12,7 +12,7 @@
   <Property name="Children">
     <Property value="GcHUDLayerData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="CROSSHAIR" />
+        <Property name="ID" value="CROSSHAIR" />
         <Property name="PosX" value="640" />
         <Property name="PosY" value="370" />
         <Property name="Width" value="50" />
@@ -22,7 +22,7 @@
       <Property name="Children">
         <Property value="GcHUDImageData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="HITMARKER" />
+            <Property name="ID" value="HITMARKER" />
             <Property name="PosX" value="0" />
             <Property name="PosY" value="0" />
             <Property name="Width" value="30" />
@@ -39,7 +39,7 @@
         </Property>
         <Property value="GcHUDImageData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="CROSSHAIR" />
+            <Property name="ID" value="CROSSHAIR" />
             <Property name="PosX" value="0" />
             <Property name="PosY" value="0" />
             <Property name="Width" value="30" />
@@ -56,7 +56,7 @@
         </Property>
         <Property value="GcHUDImageData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="CROSSHAIRTARGET" />
+            <Property name="ID" value="CROSSHAIRTARGET" />
             <Property name="PosX" value="0" />
             <Property name="PosY" value="0" />
             <Property name="Width" value="30" />
@@ -73,7 +73,7 @@
         </Property>
         <Property value="GcHUDImageData.xml">
           <Property name="Data" value="GcHUDComponent.xml">
-            <Property name="Id" value="CROSSHAIRDOT" />
+            <Property name="ID" value="CROSSHAIRDOT" />
             <Property name="PosX" value="0" />
             <Property name="PosY" value="0" />
             <Property name="Width" value="8" />

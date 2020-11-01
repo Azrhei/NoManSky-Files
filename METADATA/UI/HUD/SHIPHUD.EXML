@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcHUDLayerData">
   <Property name="Data" value="GcHUDComponent.xml">
-    <Property name="Id" value="" />
+    <Property name="ID" value="" />
     <Property name="PosX" value="0" />
     <Property name="PosY" value="0" />
     <Property name="Width" value="50" />
@@ -12,7 +12,7 @@
   <Property name="Children">
     <Property value="GcHUDTextData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="" />
+        <Property name="ID" value="" />
         <Property name="PosX" value="60" />
         <Property name="PosY" value="38" />
         <Property name="Width" value="400" />
@@ -35,7 +35,7 @@
     </Property>
     <Property value="GcHUDImageData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="" />
+        <Property name="ID" value="" />
         <Property name="PosX" value="608" />
         <Property name="PosY" value="328" />
         <Property name="Width" value="64" />
@@ -52,7 +52,7 @@
     </Property>
     <Property value="GcHUDLayerData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="" />
+        <Property name="ID" value="" />
         <Property name="PosX" value="96" />
         <Property name="PosY" value="90" />
         <Property name="Width" value="58" />
@@ -63,7 +63,7 @@
     </Property>
     <Property value="GcHUDImageData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="SHIELD" />
+        <Property name="ID" value="SHIELD" />
         <Property name="PosX" value="59" />
         <Property name="PosY" value="63" />
         <Property name="Width" value="224" />
@@ -80,7 +80,7 @@
     </Property>
     <Property value="GcHUDImageData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="" />
+        <Property name="ID" value="" />
         <Property name="PosX" value="0" />
         <Property name="PosY" value="0" />
         <Property name="Width" value="368" />
@@ -97,7 +97,7 @@
     </Property>
     <Property value="GcHUDImageData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="" />
+        <Property name="ID" value="" />
         <Property name="PosX" value="384" />
         <Property name="PosY" value="0" />
         <Property name="Width" value="512" />
@@ -114,7 +114,7 @@
     </Property>
     <Property value="GcHUDImageData.xml">
       <Property name="Data" value="GcHUDComponent.xml">
-        <Property name="Id" value="" />
+        <Property name="ID" value="" />
         <Property name="PosX" value="0" />
         <Property name="PosY" value="0" />
         <Property name="Width" value="1280" />

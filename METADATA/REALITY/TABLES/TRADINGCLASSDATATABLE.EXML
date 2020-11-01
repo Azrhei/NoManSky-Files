@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.3.0)-->
+<!--File created using MBINCompiler version (3.5.0)-->
 <Data template="GcTradingClassTable">
   <Property name="TradingClassesData">
     <Property name="Mining" value="GcTradingClassData.xml">
       <Property name="Sells" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Mineral" />
+        <Property name="TradeCategory" value="Mineral" />
       </Property>
       <Property name="Needs" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Energy" />
+        <Property name="TradeCategory" value="Energy" />
       </Property>
       <Property name="MinSellingPriceMultiplier" value="0.7" />
       <Property name="MaxSellingPriceMultiplier" value="0.9" />
@@ -19,10 +19,10 @@
     </Property>
     <Property name="HighTech" value="GcTradingClassData.xml">
       <Property name="Sells" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Tech" />
+        <Property name="TradeCategory" value="Tech" />
       </Property>
       <Property name="Needs" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Component" />
+        <Property name="TradeCategory" value="Component" />
       </Property>
       <Property name="MinSellingPriceMultiplier" value="0.7" />
       <Property name="MaxSellingPriceMultiplier" value="0.9" />
@@ -34,10 +34,10 @@
     </Property>
     <Property name="Trading" value="GcTradingClassData.xml">
       <Property name="Sells" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Commodity" />
+        <Property name="TradeCategory" value="Commodity" />
       </Property>
       <Property name="Needs" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Exotic" />
+        <Property name="TradeCategory" value="Exotic" />
       </Property>
       <Property name="MinSellingPriceMultiplier" value="0.7" />
       <Property name="MaxSellingPriceMultiplier" value="0.9" />
@@ -49,10 +49,10 @@
     </Property>
     <Property name="Manufacturing" value="GcTradingClassData.xml">
       <Property name="Sells" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Component" />
+        <Property name="TradeCategory" value="Component" />
       </Property>
       <Property name="Needs" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Mineral" />
+        <Property name="TradeCategory" value="Mineral" />
       </Property>
       <Property name="MinSellingPriceMultiplier" value="0.7" />
       <Property name="MaxSellingPriceMultiplier" value="0.9" />
@@ -64,10 +64,10 @@
     </Property>
     <Property name="Fusion" value="GcTradingClassData.xml">
       <Property name="Sells" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Alloy" />
+        <Property name="TradeCategory" value="Alloy" />
       </Property>
       <Property name="Needs" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Commodity" />
+        <Property name="TradeCategory" value="Commodity" />
       </Property>
       <Property name="MinSellingPriceMultiplier" value="0.7" />
       <Property name="MaxSellingPriceMultiplier" value="0.9" />
@@ -79,10 +79,10 @@
     </Property>
     <Property name="Scientific" value="GcTradingClassData.xml">
       <Property name="Sells" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Exotic" />
+        <Property name="TradeCategory" value="Exotic" />
       </Property>
       <Property name="Needs" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Alloy" />
+        <Property name="TradeCategory" value="Alloy" />
       </Property>
       <Property name="MinSellingPriceMultiplier" value="0.7" />
       <Property name="MaxSellingPriceMultiplier" value="0.9" />
@@ -94,10 +94,10 @@
     </Property>
     <Property name="PowerGeneration" value="GcTradingClassData.xml">
       <Property name="Sells" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Energy" />
+        <Property name="TradeCategory" value="Energy" />
       </Property>
       <Property name="Needs" value="GcTradeCategory.xml">
-        <Property name="TradingClass" value="Tech" />
+        <Property name="TradeCategory" value="Tech" />
       </Property>
       <Property name="MinSellingPriceMultiplier" value="0.7" />
       <Property name="MaxSellingPriceMultiplier" value="0.9" />
@@ -172,6 +172,14 @@
       </Property>
       <Property name="ProductMultiplierChangePer100" value="0.03" />
       <Property name="SubstanceMultiplierChangePer100" value="0.001" />
+    </Property>
+    <Property name="SpecialShop" value="GcTradingCategoryData.xml">
+      <Property name="Name" value="" />
+      <Property name="Icon" value="TkTextureResource.xml">
+        <Property name="Filename" value="" />
+      </Property>
+      <Property name="ProductMultiplierChangePer100" value="0.3" />
+      <Property name="SubstanceMultiplierChangePer100" value="0.03" />
     </Property>
   </Property>
   <Property name="MaxTradingMultiplier" value="3" />
